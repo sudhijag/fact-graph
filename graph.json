@@ -1,0 +1,3653 @@
+{
+  "nodes": [
+    {
+      "id": 1,
+      "raw_text": "I grew up in Irving, Texas and am very proud about my state",
+      "label": "I grew up in Irving, Texas\u2026",
+      "enrichment_text": "Growing up in Irving, Texas, instilled a deep sense of pride in my state, which is often celebrated for its unique culture and strong identity. Texas is known for its vibrant communities, rich history, and economic opportunities, making it a source of pride for many residents. The intense state pride is so pervasive that Texas is sometimes humorously referred to as the \"most conceited state,\" reflecting the strong connection its people feel to their roots.",
+      "topics": [
+        "places",
+        "relationships"
+      ],
+      "community_id": 0,
+      "community_label": "Texas Pride and Roller Coasters"
+    },
+    {
+      "id": 2,
+      "raw_text": "I am interested in MBTI and enneagram, despite recognizing it as flawed",
+      "label": "I am interested in MBTI and\u2026",
+      "enrichment_text": "Interest in the Myers-Briggs Type Indicator (MBTI) and the Enneagram stems from their ability to provide insights into personality traits and coping mechanisms, despite their lack of scientific validation. The MBTI focuses on core personality traits and practical applications, while the Enneagram delves into deeper motivations and fears. Many individuals find value in exploring both systems to gain a more comprehensive understanding of themselves and their interactions with others.",
+      "topics": [
+        "personality",
+        "intellectual"
+      ],
+      "community_id": 8,
+      "community_label": "Personality Insights and Expressions"
+    },
+    {
+      "id": 3,
+      "raw_text": "I have strong opinions on who is responsible for the current state of society",
+      "label": "I have strong opinions on who\u2026",
+      "enrichment_text": "Strong opinions about the current state of society often center on the belief that individuals bear collective responsibility for societal outcomes, rather than attributing blame solely to government actions. Many argue that while governments can influence conditions, it is ultimately the actions and choices of individuals that shape the fabric of society. This perspective encourages active engagement and accountability among citizens, fostering a sense of shared responsibility for societal well-being.",
+      "topics": [
+        "beliefs"
+      ],
+      "community_id": 11,
+      "community_label": "Self-Reflection And Societal Critique"
+    },
+    {
+      "id": 4,
+      "raw_text": "I have recently gotten hooked on doing the daily chess.com puzzle.",
+      "label": "I have recently gotten hooked on\u2026",
+      "enrichment_text": "Engaging with the daily puzzles on Chess.com has become a popular routine for many chess enthusiasts, offering a fun and challenging way to sharpen tactical skills. The puzzles vary in difficulty throughout the week, with easier ones on Sundays and progressively tougher challenges leading up to Saturday. This daily practice not only enhances players' strategic thinking but also fosters a sense of community among users who share tips and celebrate their progress in forums and clubs.",
+      "topics": [
+        "gaming",
+        "habits"
+      ],
+      "community_id": 10,
+      "community_label": "Leisure Activities and Interests"
+    },
+    {
+      "id": 5,
+      "raw_text": "I enjoy mild flavors of ice cream like mint, brown sugar, guava, lychee, etc.",
+      "label": "I enjoy mild flavors of ice\u2026",
+      "enrichment_text": "Enjoying mild flavors of ice cream, such as mint, brown sugar, guava, and lychee, offers a refreshing alternative to more intense or exotic options. These subtle flavors allow for a delightful tasting experience that can be both comforting and unique. Many people appreciate the balance they provide, making them a popular choice among those who prefer a gentler sweetness in their desserts.",
+      "topics": [
+        "food"
+      ],
+      "community_id": 4,
+      "community_label": "Mild Flavor Enjoyment"
+    },
+    {
+      "id": 6,
+      "raw_text": "I get easily tired and work in short bursts of energy",
+      "label": "I get easily tired and work\u2026",
+      "enrichment_text": "Experiencing fatigue and working in short bursts of energy can be a common challenge for many individuals, often influenced by lifestyle factors, stress, or underlying health conditions. This pattern of energy management may lead to increased productivity during focused intervals, but it can also result in feelings of exhaustion and difficulty maintaining consistent performance. Understanding the causes of fatigue and implementing lifestyle changes, such as improved nutrition and exercise, can help manage energy levels effectively.",
+      "topics": [
+        "health",
+        "habits"
+      ],
+      "community_id": 7,
+      "community_label": "Productivity and Expression Habits"
+    },
+    {
+      "id": 7,
+      "raw_text": "My favorite genres of anime are Slice of Life and Iyashikei",
+      "label": "My favorite genres of anime are\u2026",
+      "enrichment_text": "Slice of Life and Iyashikei are beloved anime genres that focus on everyday experiences and the soothing aspects of life. Iyashikei, a sub-genre of Slice of Life, emphasizes healing and tranquility, often featuring peaceful settings and uplifting narratives that provide comfort and relaxation. Fans appreciate these genres for their ability to evoke warmth and nostalgia, offering a gentle escape from the chaos of daily life through relatable characters and serene storytelling.",
+      "topics": [
+        "anime",
+        "nostalgia"
+      ],
+      "community_id": 2,
+      "community_label": "Anime and Related Interests"
+    },
+    {
+      "id": 8,
+      "raw_text": "I don't have a favorite movie, but I enjoy most space movies",
+      "label": "I don't have a favorite movie,\u2026",
+      "enrichment_text": "A personal interest in space movies reflects a fascination with the vastness and mystery of the universe, often transcending traditional storytelling. While many may have a favorite film, the appeal of space-themed cinema lies in its ability to explore profound themes of existence, identity, and humanity's place in the cosmos. Notable films like \"Gravity,\" \"Interstellar,\" and the \"Star Wars\" franchise have shaped the genre, blending visual spectacle with deep emotional narratives that resonate with audiences.",
+      "topics": [
+        "film"
+      ],
+      "community_id": 5,
+      "community_label": "Complex Relationship With Hobbies"
+    },
+    {
+      "id": 9,
+      "raw_text": "I re-read the same few books instead of reading new ones",
+      "label": "I re-read the same few books\u2026",
+      "enrichment_text": "Rereading familiar books allows readers to engage with the text on a deeper level, freeing up mental energy for comprehension and reflection rather than decoding. This practice can evoke nostalgia and personal growth, as revisiting a book often reveals new insights that resonate with the reader's evolving perspective. Many find comfort in the familiarity of beloved stories, which can also serve as a source of motivation and reassurance during uncertain times.",
+      "topics": [
+        "nostalgia",
+        "intellectual"
+      ],
+      "community_id": 6,
+      "community_label": "Social Withdrawal and Nostalgia"
+    },
+    {
+      "id": 10,
+      "raw_text": "I enjoy conspiracy theories even if I know they are false",
+      "label": "I enjoy conspiracy theories even if\u2026",
+      "enrichment_text": "Conspiracy theories are narratives suggesting that secretive groups are orchestrating events for malevolent purposes, often gaining traction due to their ability to provide explanations for complex or unsettling occurrences. Many people are drawn to these theories because they fulfill psychological needs for understanding, social identity, and a sense of control, despite knowing they are likely false. Research indicates that traits such as suspicion, a perception of danger, and overconfidence contribute to the allure of conspiracy beliefs, highlighting the intricate interplay between individual psychology and societal influences.",
+      "topics": [
+        "beliefs",
+        "intellectual"
+      ],
+      "community_id": 3,
+      "community_label": "Cultural Appreciation and Exploration"
+    },
+    {
+      "id": 11,
+      "raw_text": "I appreciate trash television, including fake stuff on history channel",
+      "label": "I appreciate trash television, including fake\u2026",
+      "enrichment_text": "Trash television, particularly the sensationalized content on channels like the History Channel, has gained immense popularity among viewers seeking mindless entertainment. Despite its decline in credibility, these shows attract large audiences due to their cheap production costs and the allure of fabricated excitement. Many people appreciate this genre as a form of escapism, allowing them to indulge in dramatic narratives that often bear little resemblance to actual history.",
+      "topics": [
+        "television"
+      ],
+      "community_id": 3,
+      "community_label": "Cultural Appreciation and Exploration"
+    },
+    {
+      "id": 12,
+      "raw_text": "I do not use external monitors if I can help it.",
+      "label": "I do not use external monitors\u2026",
+      "enrichment_text": "Many individuals prefer not to use external monitors, valuing the compactness and quality of their laptop displays. For instance, the MacBook Pro 14\u201d is praised for its Mini LED technology, color accuracy, and HDR features, making it sufficient for daily tasks without the need for additional screens. This choice often stems from limited desk space and a desire for a streamlined setup, particularly for those who work primarily on the go.",
+      "topics": [
+        "technology"
+      ],
+      "community_id": 13,
+      "community_label": "Laptop Usage Habits"
+    },
+    {
+      "id": 13,
+      "raw_text": "My absolute favorite music genre is Kawaii Future Bass.",
+      "label": "My absolute favorite music genre is\u2026",
+      "enrichment_text": "Kawaii Future Bass is a vibrant subgenre of electronic music that merges the melodic and emotive elements of Future Bass with the cheerful aesthetics of J-Pop and anime-inspired sound design. Characterized by its upbeat tempo, catchy melodies, and playful production, it resonates with listeners seeking a joyful and nostalgic auditory experience. Emerging from Japan in the 2010s, Kawaii Future Bass has gained popularity for its ability to evoke feelings of happiness and whimsy, often accompanied by visually striking artwork and a strong online community.",
+      "topics": [
+        "music"
+      ],
+      "community_id": 2,
+      "community_label": "Anime and Related Interests"
+    },
+    {
+      "id": 14,
+      "raw_text": "I am not on any social media beside Reddit.",
+      "label": "I am not on any social\u2026",
+      "enrichment_text": "Many individuals choose to limit their social media presence, opting for platforms like Reddit instead, which allows for community engagement without the pressures of more mainstream networks. For some, stepping away from Instagram, Facebook, and Snapchat has led to a more focused and fulfilling life, enabling them to enjoy everyday moments, such as coffee breaks or family time, without the distractions of constant online interaction. This shift often reflects a desire for deeper connections and a healthier balance between online and offline experiences.",
+      "topics": [
+        "relationships",
+        "habits"
+      ],
+      "community_id": 6,
+      "community_label": "Social Withdrawal and Nostalgia"
+    },
+    {
+      "id": 15,
+      "raw_text": "I enjoy walking or hiking absurd distances on vacation",
+      "label": "I enjoy walking or hiking absurd\u2026",
+      "enrichment_text": "Walking or hiking long distances during vacations offers a unique blend of adventure and connection with nature. Many enthusiasts find joy in challenging themselves on trails like the West Highland Way or the El Camino, where the journey becomes as rewarding as the destination. These experiences not only promote physical fitness but also provide a sense of accomplishment and a break from daily routines, making them deeply meaningful for those who partake.",
+      "topics": [
+        "physical_activity",
+        "travel"
+      ],
+      "community_id": 10,
+      "community_label": "Leisure Activities and Interests"
+    },
+    {
+      "id": 16,
+      "raw_text": "I am trying to get into more classic rock and Americana.",
+      "label": "I am trying to get into\u2026",
+      "enrichment_text": "Exploring classic rock and Americana offers a rich tapestry of musical history, connecting listeners to the influential sounds of the '60s, '70s, and '80s. Artists like The Rolling Stones and Led Zeppelin not only shaped the genre but also reflect cultural movements and personal narratives that resonate across generations. As more subgenres emerge, classic rock remains a vital expression of creativity and identity, inviting new fans to discover its enduring legacy.",
+      "topics": [
+        "music"
+      ],
+      "community_id": 3,
+      "community_label": "Cultural Appreciation and Exploration"
+    },
+    {
+      "id": 17,
+      "raw_text": "I am currently doing my MBA at Berkeley Haas business school.",
+      "label": "I am currently doing my MBA\u2026",
+      "enrichment_text": "Currently pursuing an MBA at Berkeley Haas, I am engaged in a rigorous two-year program that emphasizes a blend of core courses and electives, fostering a strong foundation in business principles. The program's collaborative environment, enriched by a diverse student body and proximity to Silicon Valley, allows for unique networking opportunities and real-world applications. This experience is designed to develop leadership skills essential for navigating the complexities of modern business.",
+      "topics": [
+        "education",
+        "career"
+      ],
+      "community_id": 1,
+      "community_label": "Personal Growth and Career Concerns"
+    },
+    {
+      "id": 18,
+      "raw_text": "My summer internship was at PwC.",
+      "label": "My summer internship was at PwC.",
+      "enrichment_text": "My summer internship at PwC provided a valuable opportunity to work full-time on live audit, tax, and consulting projects, allowing me to develop essential professional skills and build a strong network within the firm. With over 90% of interns receiving full-time offers, the experience served as a significant stepping stone in my career, reinforcing PwC's reputation as a leading firm in the accounting industry. The program emphasized hands-on learning and collaboration with experienced professionals, making it a meaningful and impactful experience.",
+      "topics": [
+        "career"
+      ],
+      "community_id": 1,
+      "community_label": "Personal Growth and Career Concerns"
+    },
+    {
+      "id": 19,
+      "raw_text": "My favorite anime are Haibane Renmei and Aria.",
+      "label": "My favorite anime are Haibane Renmei\u2026",
+      "enrichment_text": "Haibane Renmei is a 2002 anime series that explores themes of friendship, guilt, and redemption through the lives of winged beings living in a mysterious town. Its slow-paced, atmospheric storytelling and distinctive art style have earned it a dedicated following, often praised for its emotional depth and philosophical undertones. Alongside Aria the Animation, it is recognized for its tranquil atmosphere and has significantly influenced the iyashikei and slice-of-life genres in anime.",
+      "topics": [
+        "anime"
+      ],
+      "community_id": 2,
+      "community_label": "Anime and Related Interests"
+    },
+    {
+      "id": 20,
+      "raw_text": "I tend to not care about abstract or philosophical discussions.",
+      "label": "I tend to not care about\u2026",
+      "enrichment_text": "I tend to shy away from abstract or philosophical discussions, finding them often disconnected from practical realities. While many people engage deeply with questions about existence or morality, I prefer concrete topics that yield tangible outcomes. This inclination may stem from a desire for clarity and actionable insights rather than the ambiguity that often accompanies philosophical debates.",
+      "topics": [
+        "intellectual",
+        "beliefs"
+      ],
+      "community_id": 9,
+      "community_label": "Struggle With Self-Expression"
+    },
+    {
+      "id": 21,
+      "raw_text": "I am a fan of roller coasters but only get to ride them occasionally.",
+      "label": "I am a fan of roller\u2026",
+      "enrichment_text": "As a fan of roller coasters, the thrill of adrenaline and the excitement of high-speed twists and turns are deeply appealing, even if opportunities to ride are limited. Many enthusiasts cherish the unique experience of conquering fears and enjoying the sense of freedom that comes with being strapped in and soaring through the air. Despite occasional barriers to access, the passion for roller coasters often drives individuals to seek out amusement parks and new rides whenever possible.",
+      "topics": [
+        "physical_activity"
+      ],
+      "community_id": 0,
+      "community_label": "Texas Pride and Roller Coasters"
+    },
+    {
+      "id": 22,
+      "raw_text": "I am the largest fan of inverted roller coasters, like Banshee, due to their unique experience.",
+      "label": "I am the largest fan of\u2026",
+      "enrichment_text": "As the largest fan of inverted roller coasters, I am particularly drawn to Banshee, the world's longest inverted coaster located at Kings Island. With its unique design that suspends riders below the track and features seven inversions, Banshee offers an exhilarating experience that combines speed and weightlessness, reaching up to 68 mph. The thrill of dangling feet and the smooth transitions between elements make inverted coasters a standout attraction for enthusiasts like me.",
+      "topics": [
+        "physical_activity"
+      ],
+      "community_id": 0,
+      "community_label": "Texas Pride and Roller Coasters"
+    },
+    {
+      "id": 23,
+      "raw_text": "I tend to cuss and cannot stop myself, regardless of whether I am in a good mood or not.",
+      "label": "I tend to cuss and cannot\u2026",
+      "enrichment_text": "Cursing is often viewed as a reflection of one's emotional state and can serve as a coping mechanism in stressful situations. Research suggests that swearing may increase pain tolerance and is increasingly accepted in everyday language, highlighting its complex role in communication and emotional expression. Personal experiences, such as feeling more inclined to swear in the absence of a comforting presence, further illustrate the nuanced relationship individuals have with profanity.",
+      "topics": [
+        "emotions",
+        "habits"
+      ],
+      "community_id": 8,
+      "community_label": "Personality Insights and Expressions"
+    },
+    {
+      "id": 24,
+      "raw_text": "I have made a list of 5 principles that I consider to be most important to me",
+      "label": "I have made a list of\u2026",
+      "enrichment_text": "Identifying and prioritizing core values is a crucial aspect of personal development, as it helps individuals clarify what truly matters to them. By narrowing down a list of values to just five, people can create a focused framework for decision-making and goal-setting, ensuring that their actions align with their beliefs. This process fosters a sense of grounding and authenticity, ultimately leading to a more intentional and fulfilling life.",
+      "topics": [
+        "beliefs"
+      ],
+      "community_id": 7,
+      "community_label": "Productivity and Expression Habits"
+    },
+    {
+      "id": 25,
+      "raw_text": "I am a moody person and believe in the saying \"right mood, right move\"",
+      "label": "I am a moody person and\u2026",
+      "enrichment_text": "Believing in the saying \"right mood, right move\" reflects a deep understanding of how emotional states influence decision-making and interpersonal relationships. For many, recognizing the importance of mood can lead to more mindful interactions and a greater sense of empathy, as it encourages individuals to pause and validate their feelings before responding. This perspective fosters healthier communication and personal growth, emphasizing the need for emotional awareness in navigating life's challenges.",
+      "topics": [
+        "emotions",
+        "beliefs",
+        "personality"
+      ],
+      "community_id": 8,
+      "community_label": "Personality Insights and Expressions"
+    },
+    {
+      "id": 26,
+      "raw_text": "I played the violin through middle and high school and have a love for classical music",
+      "label": "I played the violin through middle\u2026",
+      "enrichment_text": "Playing the violin throughout middle and high school fostered a deep appreciation for classical music, allowing for both personal expression and emotional connection. The journey involved countless hours of practice, self-discovery, and a commitment to mastering the instrument, which ultimately shaped a lifelong passion for the genre. Engaging with classical music not only enhanced technical skills but also cultivated a rich understanding of its cultural significance and emotional depth.",
+      "topics": [
+        "music",
+        "creativity"
+      ],
+      "community_id": 5,
+      "community_label": "Complex Relationship With Hobbies"
+    },
+    {
+      "id": 27,
+      "raw_text": "I like visual novels as a genre and would play them if I had more time",
+      "label": "I like visual novels as a\u2026",
+      "enrichment_text": "Visual novels (VNs) are an engaging storytelling medium that combines elements of literature and interactive gaming, allowing players to immerse themselves in complex narratives and character development. Many fans appreciate VNs for their ability to deliver rich, emotional experiences, often exploring deep themes such as love, loss, and existentialism. Despite their time-consuming nature, the genre continues to attract players who seek meaningful narratives, with popular titles like \"Steins;Gate\" and \"Katawa Shoujo\" exemplifying the depth and creativity found within this unique format.",
+      "topics": [
+        "visual_novels"
+      ],
+      "community_id": 2,
+      "community_label": "Anime and Related Interests"
+    },
+    {
+      "id": 28,
+      "raw_text": "I read largely business books and don't really read fiction",
+      "label": "I read largely business books and\u2026",
+      "enrichment_text": "Many readers gravitate towards business books, believing they offer practical insights and strategies for personal and professional growth. However, some argue that fiction can provide deeper understanding of human behavior and empathy, often teaching valuable lessons in leadership and creativity. The debate highlights differing perspectives on the value of narrative versus structured advice in shaping one's worldview and skills.",
+      "topics": [
+        "education",
+        "intellectual"
+      ],
+      "community_id": 6,
+      "community_label": "Social Withdrawal and Nostalgia"
+    },
+    {
+      "id": 29,
+      "raw_text": "I have kept a diary in text, handwritten, and voice form for about 10 years",
+      "label": "I have kept a diary in\u2026",
+      "enrichment_text": "Keeping a diary in various forms\u2014text, handwritten, and voice\u2014over a span of 10 years allows for personal reflection, creativity, and emotional processing. Many people find journaling meaningful as it helps track personal growth, clarify thoughts, and document life experiences. The practice can serve as a therapeutic outlet and a way to preserve memories for future reflection.",
+      "topics": [
+        "habits",
+        "creativity",
+        "emotions"
+      ],
+      "community_id": 7,
+      "community_label": "Productivity and Expression Habits"
+    },
+    {
+      "id": 30,
+      "raw_text": "I prefer monospaced fonts like Courier and use them for my diary entries",
+      "label": "I prefer monospaced fonts like Courier\u2026",
+      "enrichment_text": "Using monospaced fonts like Courier New for diary entries offers a unique blend of nostalgia and practicality. These fonts, characterized by each character occupying the same horizontal space, provide a straightforward, no-frills approach to writing that emphasizes content over aesthetics. Many writers appreciate this simplicity, as it allows them to focus on their thoughts without the distraction of a visually appealing font, making the writing process feel more authentic and grounded.",
+      "topics": [
+        "habits",
+        "nostalgia",
+        "creativity"
+      ],
+      "community_id": 7,
+      "community_label": "Productivity and Expression Habits"
+    },
+    {
+      "id": 31,
+      "raw_text": "I am pretty averse to noise and like a quiet, soothing environment",
+      "label": "I am pretty averse to noise\u2026",
+      "enrichment_text": "A strong aversion to noise often leads individuals to seek quiet, soothing environments for relaxation and mental clarity. Many people find that excessive noise can trigger anxiety and disrupt their ability to focus, making serene spaces essential for their well-being. Creating a calm atmosphere, whether through soundproofing, using earplugs, or spending time in nature, allows for recovery from sensory overload and fosters a more peaceful state of mind.",
+      "topics": [
+        "emotions",
+        "habits"
+      ],
+      "community_id": 12,
+      "community_label": "Soothing Experiences and Interests"
+    },
+    {
+      "id": 32,
+      "raw_text": "I am enneagram 9w8, I like to see people getting along",
+      "label": "I am enneagram 9w8, I like\u2026",
+      "enrichment_text": "As an Enneagram 9w8, I thrive on fostering harmony and connection among people, often prioritizing their needs and well-being. My empathetic nature allows me to easily discern what others require, making me a supportive presence in social settings. While I possess a subtle desire to assert myself, my aversion to conflict often keeps me focused on creating a peaceful environment where everyone can get along.",
+      "topics": [
+        "personality",
+        "relationships"
+      ],
+      "community_id": 8,
+      "community_label": "Personality Insights and Expressions"
+    },
+    {
+      "id": 33,
+      "raw_text": "I am not good at detail oriented work but not too creative either, though I enjoy creativity",
+      "label": "I am not good at detail\u2026",
+      "enrichment_text": "Struggling with detail-oriented tasks while also lacking strong creative skills can create a unique challenge in both personal and professional settings. Many individuals in this situation find fulfillment in roles that emphasize big-picture thinking and collaboration, such as marketing or design, where creativity is valued but not solely relied upon. Embracing one's strengths and seeking environments that foster creativity without the pressure of perfection can lead to more satisfying and productive experiences.",
+      "topics": [
+        "creativity",
+        "personality"
+      ],
+      "community_id": 9,
+      "community_label": "Struggle With Self-Expression"
+    },
+    {
+      "id": 34,
+      "raw_text": "My favorite chess opening as black has historically been the French Rubinstein, it is quite solid and familiar.",
+      "label": "My favorite chess opening as black\u2026",
+      "enrichment_text": "The French Rubinstein Variation is a solid and strategic chess opening for Black, known for its resilience and familiarity among players. It allows Black to avoid highly theoretical lines while maintaining a stable position, making it particularly appealing for those who prefer quieter, less aggressive play. Despite being slightly worse in some positions, it offers a robust framework for counterplay and is favored by players at various skill levels.",
+      "topics": [
+        "gaming"
+      ],
+      "community_id": 10,
+      "community_label": "Leisure Activities and Interests"
+    },
+    {
+      "id": 35,
+      "raw_text": "I have a great deal of nostalgia for my old schools, especially my high school.",
+      "label": "I have a great deal of\u2026",
+      "enrichment_text": "Nostalgia for high school often stems from the profound connections formed during those formative years, including friendships and memorable experiences that shape one's identity. Many people cherish the sense of belonging and the lessons learned, reflecting on how those moments influence their lives long after graduation. As reunions approach, like my 20th high school reunion, the passage of time amplifies these feelings, reminding us of the lasting impact of our educational journeys.",
+      "topics": [
+        "nostalgia",
+        "education",
+        "relationships"
+      ],
+      "community_id": 6,
+      "community_label": "Social Withdrawal and Nostalgia"
+    },
+    {
+      "id": 36,
+      "raw_text": "My high school used to hold a winter orchestra concert, playing \"Sleigh Ride\".",
+      "label": "My high school used to hold\u2026",
+      "enrichment_text": "My high school held an annual winter orchestra concert featuring the beloved holiday classic \"Sleigh Ride,\" composed by Leroy Anderson in 1948. The piece, known for its lively rhythms and festive spirit, became a cherished tradition that brought together students and the community, creating a joyful atmosphere during the holiday season. The concert showcased the talents of various musicians, including those playing brass and strings, and fostered a sense of camaraderie and celebration among participants and attendees alike.",
+      "topics": [
+        "music",
+        "creativity",
+        "education"
+      ],
+      "community_id": 5,
+      "community_label": "Complex Relationship With Hobbies"
+    },
+    {
+      "id": 37,
+      "raw_text": "I visit India every couple of years.",
+      "label": "I visit India every couple of\u2026",
+      "enrichment_text": "Visiting India every couple of years allows for a deep connection with its diverse and vibrant culture, offering valuable experiences and insights about oneself and others. Many find it meaningful to share these journeys with family, introducing children to the rich traditions and heritage of the country. Each trip often reveals new places and perspectives, making it a transformative experience that goes beyond mere tourism.",
+      "topics": [
+        "travel",
+        "places"
+      ],
+      "community_id": 3,
+      "community_label": "Cultural Appreciation and Exploration"
+    },
+    {
+      "id": 38,
+      "raw_text": "My brother is also quiet and often we can go periods without talking to each other.",
+      "label": "My brother is also quiet and\u2026",
+      "enrichment_text": "Having a quiet relationship with my brother often means we can go long stretches without speaking, which reflects our shared temperament. Despite the silence, we have an understanding that helps us avoid conflicts over material possessions, a lesson learned from observing family disputes. This dynamic allows us to maintain a bond that is comfortable and respectful, even in the absence of frequent communication.",
+      "topics": [
+        "relationships",
+        "personality"
+      ],
+      "community_id": 6,
+      "community_label": "Social Withdrawal and Nostalgia"
+    },
+    {
+      "id": 39,
+      "raw_text": "I am a little stingy with money because I am not sure when I will earn more.",
+      "label": "I am a little stingy with\u2026",
+      "enrichment_text": "Being cautious with money often stems from a fear of future financial instability, leading individuals to adopt frugal habits. Many find that by being stingy for a few years, they can ultimately achieve greater financial security and the ability to be generous later on. This mindset is particularly relevant in today's uncertain economic climate, where fluctuating incomes can make budgeting and saving crucial for long-term stability.",
+      "topics": [
+        "habits",
+        "beliefs"
+      ],
+      "community_id": 1,
+      "community_label": "Personal Growth and Career Concerns"
+    },
+    {
+      "id": 40,
+      "raw_text": "I believe that AI will take over the world in due time, but only after we make a architectural breakthrough instead of just scaling compute.",
+      "label": "I believe that AI will take\u2026",
+      "enrichment_text": "The belief that AI will eventually take over the world hinges on the necessity for architectural breakthroughs rather than mere scaling of computational power. As we approach 2026, the focus is shifting towards innovations like agentic AI, continual learning, and hybrid architectures, which address the limitations of current models. These advancements are crucial for enabling AI to operate effectively in complex environments, moving beyond basic automation to become integral in decision-making and real-world applications.",
+      "topics": [
+        "beliefs",
+        "technology",
+        "intellectual"
+      ],
+      "community_id": 1,
+      "community_label": "Personal Growth and Career Concerns"
+    },
+    {
+      "id": 41,
+      "raw_text": "I have friends from my high school and college, but I hardly hang out or talk to them.",
+      "label": "I have friends from my high\u2026",
+      "enrichment_text": "Maintaining friendships from high school and college can be challenging, especially when life circumstances change and in-person interactions become less frequent. Many people find that despite having supportive friends, the pressure to hang out can feel overwhelming, leading to a natural drift in communication. The lack of regular face-to-face contact often results in friendships fading, as individuals prioritize their own needs and schedules over social obligations.",
+      "topics": [
+        "relationships"
+      ],
+      "community_id": 6,
+      "community_label": "Social Withdrawal and Nostalgia"
+    },
+    {
+      "id": 42,
+      "raw_text": "I enjoy all rice based dishes, and especially fried rice.",
+      "label": "I enjoy all rice based dishes,\u2026",
+      "enrichment_text": "Fried rice is a beloved dish for many, offering a versatile canvas for customization with various proteins and vegetables. Its simplicity and ease of preparation make it a popular choice for home cooks, especially when using leftover rice. The dish evokes nostalgia for many, often reminding them of meals enjoyed at food courts or family gatherings, making it a meaningful comfort food.",
+      "topics": [
+        "food"
+      ],
+      "community_id": 4,
+      "community_label": "Mild Flavor Enjoyment"
+    },
+    {
+      "id": 43,
+      "raw_text": "I enjoy tofu and paneer, even though they are not things I find frequently.",
+      "label": "I enjoy tofu and paneer, even\u2026",
+      "enrichment_text": "Tofu and paneer are both versatile protein sources that appeal to many due to their unique textures and ability to absorb flavors. While tofu is often praised for its health benefits and is a staple in vegan diets, paneer remains a beloved dairy option in Indian cuisine. Despite their differences, enthusiasts often seek tofu as a substitute for paneer in various dishes, appreciating its adaptability in recipes like vegan matar paneer.",
+      "topics": [
+        "food"
+      ],
+      "community_id": 4,
+      "community_label": "Mild Flavor Enjoyment"
+    },
+    {
+      "id": 44,
+      "raw_text": "I have admiration for certain cultures such as Peru, Japan, Morocco, Italy, etc.",
+      "label": "I have admiration for certain cultures\u2026",
+      "enrichment_text": "Admiring diverse cultures has always been a significant aspect of my life. From the rich traditions of Peru, where the Quechua people preserve their ancient textile arts, to the refined culinary and artistic heritage of Italy, each culture offers unique insights into human experience. Japan's blend of ancient customs and modern innovation, along with Morocco's vibrant markets and Berber heritage, further enrich my appreciation for the world's cultural tapestry. These experiences not only inspire my writing but also deepen my understanding of global diversity.",
+      "topics": [
+        "travel",
+        "beliefs",
+        "creativity"
+      ],
+      "community_id": 3,
+      "community_label": "Cultural Appreciation and Exploration"
+    },
+    {
+      "id": 45,
+      "raw_text": "I admire the architecture of certain nations and believe it to be the surest sign of beauty and civilization.",
+      "label": "I admire the architecture of certain\u2026",
+      "enrichment_text": "Admiring the architecture of various nations reflects a deep appreciation for beauty and civilization, as great buildings symbolize a nation's identity and aspirations. Iconic structures, like the Central Bank of Iraq's new headquarters designed by Zaha Hadid and the upcoming Tour F in Ivory Coast, showcase the potential for architectural innovation and cultural expression. Such architecture not only enhances urban landscapes but also serves as a testament to a society's values and achievements, inspiring future generations to build a more aesthetically pleasing and equitable world.",
+      "topics": [
+        "places",
+        "beliefs",
+        "creativity"
+      ],
+      "community_id": 3,
+      "community_label": "Cultural Appreciation and Exploration"
+    },
+    {
+      "id": 46,
+      "raw_text": "I enjoy anime Vtubers because they have excellent voices and are entertaining.",
+      "label": "I enjoy anime Vtubers because they\u2026",
+      "enrichment_text": "Anime Vtubers, often represented as cute anime characters, have gained immense popularity due to their engaging personalities and exceptional voice acting. Operating under talent agencies like Hololive, these virtual entertainers undergo rigorous auditions, ensuring that only those with top-tier skills and charm become prominent figures. Their collaborations with well-known voice actors and celebrities further enhance their appeal, creating a unique blend of entertainment that resonates deeply with fans.",
+      "topics": [
+        "vtubers",
+        "anime"
+      ],
+      "community_id": 2,
+      "community_label": "Anime and Related Interests"
+    },
+    {
+      "id": 47,
+      "raw_text": "I do not enjoy job hunting and hope to be finished one day.",
+      "label": "I do not enjoy job hunting\u2026",
+      "enrichment_text": "Job hunting is often a stressful and draining experience for many individuals, as it involves navigating a competitive landscape with frequent rejections and uncertainty. For those who dislike the process, it can feel like an endless grind, overshadowing the excitement of finding a suitable position. The hope of eventually securing a job and moving past this phase is a common sentiment, reflecting the desire for stability and fulfillment in one\u2019s career.",
+      "topics": [
+        "career",
+        "emotions"
+      ],
+      "community_id": 1,
+      "community_label": "Personal Growth and Career Concerns"
+    },
+    {
+      "id": 48,
+      "raw_text": "My favorite places to go are the Grapevine mall and other local sights in Texas.",
+      "label": "My favorite places to go are\u2026",
+      "enrichment_text": "Grapevine, Texas, is a vibrant destination known for its diverse attractions, including the Grapevine Mills Mall, which features family-friendly experiences like SEA LIFE Aquarium and LEGOLAND Discovery Center. Visitors can enjoy local wineries, craft breweries, and unique boutiques, making it a hub for art, history, and entertainment. With activities ranging from vintage train rides to scenic cruises on Lake Grapevine, this area offers something for everyone, creating lasting memories for families and friends alike.",
+      "topics": [
+        "places",
+        "travel"
+      ],
+      "community_id": 0,
+      "community_label": "Texas Pride and Roller Coasters"
+    },
+    {
+      "id": 49,
+      "raw_text": "I enjoy dead and liminal spaces, as they have a unique charm.",
+      "label": "I enjoy dead and liminal spaces,\u2026",
+      "enrichment_text": "Dead and liminal spaces evoke a unique charm through their unsettling familiarity and nostalgic qualities, often reminiscent of places that exist only in memory or dreams. These spaces, characterized by their emptiness and lack of natural elements, elicit feelings of disconnected anxiety, allowing visitors to experience a surreal sense of peace away from the chaos of everyday life. The appeal lies in their ability to transport individuals to transitional moments, where the boundaries of reality blur, creating a profound emotional resonance.",
+      "topics": [
+        "nostalgia",
+        "emotions",
+        "places"
+      ],
+      "community_id": 10,
+      "community_label": "Leisure Activities and Interests"
+    },
+    {
+      "id": 50,
+      "raw_text": "Certain anime I enjoy are also quite hard for me to watch due to the romantic aspects.",
+      "label": "Certain anime I enjoy are also\u2026",
+      "enrichment_text": "Certain anime I enjoy often present challenges for me due to their romantic themes, which can sometimes be uncomfortable. Series like *Don\u2019t Toy With Me, Miss Nagatoro* and *Scum\u2019s Wish* are criticized for depicting unhealthy relationships, making it difficult to connect with the characters. Despite my appreciation for the genre's exploration of love and emotional growth, the portrayal of flawed romances can overshadow the enjoyment of the storytelling.",
+      "topics": [
+        "anime",
+        "emotions",
+        "relationships"
+      ],
+      "community_id": 2,
+      "community_label": "Anime and Related Interests"
+    },
+    {
+      "id": 51,
+      "raw_text": "I spent 2 days alone in Latvia and got lost, having to help a stranger move his car out of a ditch when drunk.",
+      "label": "I spent 2 days alone in\u2026",
+      "enrichment_text": "During a two-day solo trip to Latvia, I found myself lost and unexpectedly involved in a local incident when I helped a stranger move his car out of a ditch after he had been drinking. This experience highlighted the importance of road safety and the severe penalties for drinking and driving in Latvia, where the legal blood alcohol limit is notably low. Despite the challenges, the adventure underscored the spontaneity of travel and the connections that can arise in unexpected situations.",
+      "topics": [
+        "travel",
+        "places"
+      ],
+      "community_id": 0,
+      "community_label": "Texas Pride and Roller Coasters"
+    },
+    {
+      "id": 52,
+      "raw_text": "I have stopped drinking due to the tendency for Murphy's law to take over.",
+      "label": "I have stopped drinking due to\u2026",
+      "enrichment_text": "I have stopped drinking due to the realization that Murphy's Law\u2014where anything that can go wrong will go wrong\u2014often manifested in my life when I consumed alcohol. After years of daily drinking and experiencing the negative consequences that accompanied it, I recognized the need for change to regain control and improve my overall well-being. This decision has not only helped me avoid impulsive behaviors associated with alcohol but has also allowed me to focus on healthier coping mechanisms and a more fulfilling lifestyle.",
+      "topics": [
+        "health",
+        "habits",
+        "emotions"
+      ],
+      "community_id": 8,
+      "community_label": "Personality Insights and Expressions"
+    },
+    {
+      "id": 53,
+      "raw_text": "I use a rather old laptop and have been looking to upgrade soon.",
+      "label": "I use a rather old laptop\u2026",
+      "enrichment_text": "Upgrading an old laptop can significantly enhance its performance and extend its lifespan, making it a cost-effective alternative to purchasing a new device. Many users opt for upgrades like adding SSDs or switching to lightweight operating systems such as Linux to optimize speed and efficiency. As technology evolves, finding ways to keep older hardware functional not only reduces electronic waste but also allows individuals to continue using familiar devices without the financial burden of new purchases.",
+      "topics": [
+        "technology"
+      ],
+      "community_id": 13,
+      "community_label": "Laptop Usage Habits"
+    },
+    {
+      "id": 54,
+      "raw_text": "I used to want to be a mathematician when younger. However, once realizing the proof-based nature of the subject, realized I could not keep up.",
+      "label": "I used to want to be\u2026",
+      "enrichment_text": "Many individuals are drawn to mathematics for its logical structure and problem-solving aspects, often aspiring to become mathematicians. However, the realization of the proof-based nature of advanced mathematics can be daunting, leading some to reconsider their paths. The journey involves not only a passion for the subject but also a commitment to navigating its complexities, which can be both challenging and rewarding.",
+      "topics": [
+        "education",
+        "intellectual"
+      ],
+      "community_id": 5,
+      "community_label": "Complex Relationship With Hobbies"
+    },
+    {
+      "id": 55,
+      "raw_text": "I sleep on my stomach, and have poor posture.",
+      "label": "I sleep on my stomach, and\u2026",
+      "enrichment_text": "Sleeping on my stomach has led to persistent neck and back pain due to poor posture. This position forces my head to twist, misaligning my spine and causing discomfort. Despite some benefits, the strain on my body often results in aches and reduced sleep quality, highlighting the importance of proper sleep posture for overall health.",
+      "topics": [
+        "health",
+        "habits"
+      ],
+      "community_id": 9,
+      "community_label": "Struggle With Self-Expression"
+    },
+    {
+      "id": 56,
+      "raw_text": "I have been described by some as a stoner due to my excessively laid back attitude.",
+      "label": "I have been described by some\u2026",
+      "enrichment_text": "Being described as a \"stoner\" due to my laid-back attitude reflects a lifestyle centered around relaxation and a carefree approach to life. This perception often resonates with others who appreciate a chill vibe, fostering connections through shared interests in cannabis culture and a relaxed mindset. Embracing this identity allows for a deeper appreciation of the simple pleasures in life, promoting a sense of community and understanding among like-minded individuals.",
+      "topics": [
+        "personality",
+        "habits"
+      ],
+      "community_id": 8,
+      "community_label": "Personality Insights and Expressions"
+    },
+    {
+      "id": 57,
+      "raw_text": "I am rather harsh on myself.",
+      "label": "I am rather harsh on myself.",
+      "enrichment_text": "Being harsh on oneself often manifests as excessive self-criticism, where individuals focus on their mistakes and engage in negative self-talk that undermines their self-worth. This pattern can lead to feelings of inadequacy and perfectionism, making it difficult to appreciate one's achievements. Recognizing and addressing this behavior is essential for mental well-being, as fostering self-compassion can help mitigate the damaging effects of an overly critical inner voice.",
+      "topics": [
+        "emotions"
+      ],
+      "community_id": 11,
+      "community_label": "Self-Reflection And Societal Critique"
+    },
+    {
+      "id": 58,
+      "raw_text": "I find that certain MBTI functions are more admirable than others. Ne and Se are more admirable than Ti.",
+      "label": "I find that certain MBTI functions\u2026",
+      "enrichment_text": "Certain MBTI functions, particularly Extraverted Intuition (Ne) and Extraverted Sensing (Se), are often viewed as more admirable than Introverted Thinking (Ti) due to their outward focus and adaptability. Ne encourages exploration and the generation of new ideas, while Se emphasizes immersion in the present moment and sensory experiences. In contrast, Ti, which is introspective and analytical, may be perceived as less engaging or dynamic in social contexts, leading some to value the more extroverted functions for their ability to connect and interact with the world.",
+      "topics": [
+        "personality",
+        "intellectual"
+      ],
+      "community_id": 8,
+      "community_label": "Personality Insights and Expressions"
+    },
+    {
+      "id": 59,
+      "raw_text": "I love the Galleria Houston, where I worked part of my first job for a period of about 3 months.",
+      "label": "I love the Galleria Houston, where\u2026",
+      "enrichment_text": "The Galleria Houston holds a special place in my heart as the site of my first job, where I worked for about three months. This iconic mall, known for its luxury shopping and vibrant atmosphere, provided me with valuable early work experience and a glimpse into the bustling retail environment. My time there not only shaped my professional journey but also deepened my appreciation for the dynamic energy of the Galleria.",
+      "topics": [
+        "places",
+        "career"
+      ],
+      "community_id": 0,
+      "community_label": "Texas Pride and Roller Coasters"
+    },
+    {
+      "id": 60,
+      "raw_text": "I love the Rolling Giant, and believe he represents the soul of the Irving community.",
+      "label": "I love the Rolling Giant, and\u2026",
+      "enrichment_text": "The Rolling Giant, a character from Kane Pixels' horror series \"The Oldest View,\" symbolizes the spirit of the Irving community, embodying the legacy of local botanist Julien Reverchon. This striking figure, showcased in the Valley View Mall, resonates with residents as a reminder of their rich history and cultural identity. Its haunting presence and the narrative surrounding it have sparked fascination and pride among viewers, making it a beloved emblem of Irving's unique character.",
+      "topics": [
+        "places",
+        "nostalgia",
+        "beliefs"
+      ],
+      "community_id": 0,
+      "community_label": "Texas Pride and Roller Coasters"
+    },
+    {
+      "id": 61,
+      "raw_text": "I find that my MBA program is moving by a little faster than expected.",
+      "label": "I find that my MBA program\u2026",
+      "enrichment_text": "The MBA program is progressing more quickly than anticipated, reflecting the increasing demand for advanced business education in a rapidly evolving job market. With the rise of AI and technology, MBA graduates are well-positioned to enter fast-growing fields such as data analytics, fintech, and cybersecurity. The accelerated pace of the program not only enhances learning efficiency but also prepares students to adapt to emerging skill needs in a competitive landscape.",
+      "topics": [
+        "education",
+        "career"
+      ],
+      "community_id": 1,
+      "community_label": "Personal Growth and Career Concerns"
+    },
+    {
+      "id": 62,
+      "raw_text": "I rescued myself from a 2.825 GPA after the first semester of my program.",
+      "label": "I rescued myself from a 2.825\u2026",
+      "enrichment_text": "Rescuing myself from a 2.825 GPA after my first semester of college was a pivotal moment in my academic journey. The experience taught me resilience and the importance of adapting my study habits, ultimately leading to significant improvement in my grades. Many find this story inspiring, as it highlights the potential for growth and transformation despite initial setbacks.",
+      "topics": [
+        "education",
+        "habits",
+        "emotions"
+      ],
+      "community_id": 1,
+      "community_label": "Personal Growth and Career Concerns"
+    },
+    {
+      "id": 63,
+      "raw_text": "I am often fearful of infinite suffering that the future seems to offer.",
+      "label": "I am often fearful of infinite\u2026",
+      "enrichment_text": "Apeirophobia, the fear of infinity, encompasses the dread of eternal existence and the uncertainties of life, death, and the future. Many individuals grapple with anticipatory anxiety, which can stem from concerns about aging, mortality, and the potential for infinite suffering. Understanding and addressing these fears through cognitive behavioral therapy and grounding techniques can help alleviate the distress associated with such profound existential concerns.",
+      "topics": [
+        "emotions",
+        "beliefs"
+      ],
+      "community_id": 1,
+      "community_label": "Personal Growth and Career Concerns"
+    },
+    {
+      "id": 64,
+      "raw_text": "I am trying to get into exercising, but find that the social aspect of going to a gym is a blocker.",
+      "label": "I am trying to get into\u2026",
+      "enrichment_text": "I am trying to get into exercising, but I find the social aspect of going to a gym to be a significant barrier. Research indicates that social support can enhance exercise motivation, yet feelings of intimidation and low self-confidence often deter individuals from participating in group settings. To overcome this, I am considering starting small, perhaps by exercising in less crowded environments or inviting friends to join me, making the experience more enjoyable and less daunting.",
+      "topics": [
+        "physical_activity",
+        "emotions",
+        "relationships"
+      ],
+      "community_id": 6,
+      "community_label": "Social Withdrawal and Nostalgia"
+    },
+    {
+      "id": 65,
+      "raw_text": "I enjoy running and would do it every day if I had a good route.",
+      "label": "I enjoy running and would do\u2026",
+      "enrichment_text": "Running is a versatile and accessible form of exercise that offers numerous physical and mental benefits, such as calorie burning and improved cardiovascular health. Many enthusiasts enjoy the freedom of running daily, especially when they have access to varied and scenic routes. The experience can be enhanced by incorporating different paces and terrains, making each run purposeful and enjoyable while fostering a connection with nature.",
+      "topics": [
+        "physical_activity"
+      ],
+      "community_id": 10,
+      "community_label": "Leisure Activities and Interests"
+    },
+    {
+      "id": 66,
+      "raw_text": "Texas heat is enjoyable but it is also a pain when trying to get work done. It is essentially vacation weather to me.",
+      "label": "Texas heat is enjoyable but it\u2026",
+      "enrichment_text": "Texas heat can be both enjoyable and challenging, often creating a vacation-like atmosphere that makes it difficult to focus on work. The high temperatures lead to decreased productivity, as people require more breaks and struggle to maintain attention during tasks. This impact extends beyond individual discomfort, affecting various sectors of the economy, particularly those reliant on foot traffic and outdoor activity.",
+      "topics": [
+        "habits",
+        "emotions"
+      ],
+      "community_id": 0,
+      "community_label": "Texas Pride and Roller Coasters"
+    },
+    {
+      "id": 67,
+      "raw_text": "I have a space heater running full blast in my room constantly to try to keep it hot enough, even though it doesn't really get there.",
+      "label": "I have a space heater running\u2026",
+      "enrichment_text": "Running a space heater continuously in a room is a common practice for individuals seeking warmth in colder environments, especially when central heating is insufficient. Many find it meaningful as it allows for localized comfort and energy efficiency, focusing heat where it is most needed. However, it often leads to challenges in achieving the desired temperature, prompting users to explore various strategies for optimizing heater performance and safety.",
+      "topics": [
+        "habits",
+        "health"
+      ],
+      "community_id": 0,
+      "community_label": "Texas Pride and Roller Coasters"
+    },
+    {
+      "id": 68,
+      "raw_text": "I like an old variant of chess called Chaturanga, as it is less tactical and calm than regular chess.",
+      "label": "I like an old variant of\u2026",
+      "enrichment_text": "Chaturanga, an ancient Indian strategy game dating back over 1,500 years, is recognized as the precursor to modern chess. Played on an 8x8 board, it features pieces representing the four divisions of the Indian military and emphasizes a calmer, less tactical approach compared to contemporary chess variants. Enthusiasts appreciate Chaturanga for its historical significance and the unique strategic experience it offers, allowing players to engage in a more reflective form of the game.",
+      "topics": [
+        "gaming",
+        "intellectual"
+      ],
+      "community_id": 10,
+      "community_label": "Leisure Activities and Interests"
+    },
+    {
+      "id": 69,
+      "raw_text": "I enjoy drinking a certain sparkling water known as Liquid Death, as it gives me something to buy at a gas station that is not alcohol.",
+      "label": "I enjoy drinking a certain sparkling\u2026",
+      "enrichment_text": "Liquid Death is a unique brand of sparkling water that offers a refreshing alternative to alcoholic beverages, particularly appealing to those looking for non-alcoholic options at gas stations. With its bold branding and a variety of flavors, it provides a fun and flavorful hydration choice without the calories and sugar found in traditional sodas. The brand also emphasizes sustainability by using aluminum cans instead of plastic, resonating with environmentally conscious consumers.",
+      "topics": [
+        "food",
+        "habits"
+      ],
+      "community_id": 4,
+      "community_label": "Mild Flavor Enjoyment"
+    },
+    {
+      "id": 70,
+      "raw_text": "I don't enjoy spicy food as much as I used to and like the garden variety stuff.",
+      "label": "I don't enjoy spicy food as\u2026",
+      "enrichment_text": "Many people experience a shift in their taste preferences over time, often finding that their enjoyment of spicy foods diminishes. This change can be attributed to factors such as spice tolerance, which may lead individuals to require increasingly hotter foods to achieve the same level of enjoyment. As a result, some may gravitate towards milder, more garden-variety flavors that align better with their evolving palate and personal taste.",
+      "topics": [
+        "food"
+      ],
+      "community_id": 4,
+      "community_label": "Mild Flavor Enjoyment"
+    },
+    {
+      "id": 71,
+      "raw_text": "My least favorite subject is statistics, and I intentionally forget what I learn to spite the subject.",
+      "label": "My least favorite subject is statistics,\u2026",
+      "enrichment_text": "Statistics ranks as my least favorite subject, primarily because I find the concepts tedious and challenging to grasp. To cope with my aversion, I intentionally forget what I learn, almost as an act of defiance against the subject. This approach highlights how personal interests and experiences can shape our attitudes toward learning, often leading to a deeper emotional connection with the material\u2014or, in my case, a strong desire to distance myself from it.",
+      "topics": [
+        "education",
+        "emotions"
+      ],
+      "community_id": 5,
+      "community_label": "Complex Relationship With Hobbies"
+    },
+    {
+      "id": 72,
+      "raw_text": "I have really poor fiction memory and can quickly forget things in the plot.",
+      "label": "I have really poor fiction memory\u2026",
+      "enrichment_text": "Having a poor fiction memory can be frustrating, especially for avid readers who consume around 100 books a year. This phenomenon, known as transience, reflects the brain's natural tendency to forget information over time, often leading to challenges in recalling plot details. While many readers enjoy stories in the moment, they may struggle to retain key elements, prompting discussions about memory techniques like spaced repetition to enhance retention and improve overall reading experiences.",
+      "topics": [
+        "intellectual",
+        "habits"
+      ],
+      "community_id": 6,
+      "community_label": "Social Withdrawal and Nostalgia"
+    },
+    {
+      "id": 73,
+      "raw_text": "I enjoyed a trip to Lithuania and found it surprisingly livable and calm.",
+      "label": "I enjoyed a trip to Lithuania\u2026",
+      "enrichment_text": "A trip to Lithuania revealed a surprisingly livable and calm atmosphere, particularly in its medieval old towns, which are often described as quiet and uncrowded. Visitors can enjoy the rich culture and history within just a few days, making it an ideal destination for a short getaway. The country's evolving identity, with increasing international influences, adds to its charm while prompting reflections on the balance between tradition and modernization.",
+      "topics": [
+        "travel",
+        "places"
+      ],
+      "community_id": 0,
+      "community_label": "Texas Pride and Roller Coasters"
+    },
+    {
+      "id": 74,
+      "raw_text": "My favorite podcasts are Theo Von and Joe Rogan. I find that they discuss topics with the right amount of skepticism.",
+      "label": "My favorite podcasts are Theo Von\u2026",
+      "enrichment_text": "Theo Von and Joe Rogan's podcasts are celebrated for their engaging discussions that blend humor with skepticism on a wide range of topics, including technology, government accountability, and mental health. Their conversations often delve into contemporary issues, encouraging listeners to think critically about societal narratives. The dynamic between the two hosts, marked by Von's comedic storytelling and Rogan's inquisitive nature, resonates with audiences, making their episodes both entertaining and thought-provoking.",
+      "topics": [
+        "intellectual",
+        "emotions"
+      ],
+      "community_id": 3,
+      "community_label": "Cultural Appreciation and Exploration"
+    },
+    {
+      "id": 75,
+      "raw_text": "Theo Von's intro, \"Shine on Me\", was my first taste of Americana.",
+      "label": "Theo Von's intro, \"Shine on Me\",\u2026",
+      "enrichment_text": "Theo Von's podcast intro features the song \"Shine\" by Bishop Gunn, which serves as a gateway into the Americana genre for many listeners. The laid-back, nostalgic vibe of the track resonates with fans, evoking a sense of warmth and connection to Southern roots. Recorded at the iconic Muscle Shoals Sound Studio, \"Shine\" has gained recognition not only as a theme song but also as a representation of the rich musical heritage of the region.",
+      "topics": [
+        "music"
+      ],
+      "community_id": 3,
+      "community_label": "Cultural Appreciation and Exploration"
+    },
+    {
+      "id": 76,
+      "raw_text": "In Houston, I visited the Rothko Chapel. It helped me find inner peace.",
+      "label": "In Houston, I visited the Rothko\u2026",
+      "enrichment_text": "The Rothko Chapel in Houston is a serene space designed for contemplation and reflection, featuring large canvases by artist Mark Rothko that evoke deep emotional responses. Its inclusive environment welcomes individuals from diverse backgrounds, fostering a sense of community and peace. The Chapel also hosts various interfaith programs and events, enhancing its role as a spiritual haven in the heart of the city.",
+      "topics": [
+        "places",
+        "beliefs",
+        "emotions"
+      ],
+      "community_id": 0,
+      "community_label": "Texas Pride and Roller Coasters"
+    },
+    {
+      "id": 77,
+      "raw_text": "One of my happiest moments was the first drop on Millenium Force.",
+      "label": "One of my happiest moments was\u2026",
+      "enrichment_text": "One of my happiest moments was experiencing the first drop on Millennium Force, a legendary roller coaster at Cedar Point. At 300 feet tall and reaching speeds of 92 mph, the initial plunge delivers an exhilarating rush as riders feel the thrill of free-fall at an 80-degree angle. The combination of breathtaking height, speed, and the sheer excitement of the ride makes it a memorable highlight for thrill-seekers and coaster enthusiasts alike.",
+      "topics": [
+        "physical_activity",
+        "emotions",
+        "nostalgia"
+      ],
+      "community_id": 0,
+      "community_label": "Texas Pride and Roller Coasters"
+    },
+    {
+      "id": 78,
+      "raw_text": "I loved Cedar Point but somehow found King's Island to be more comfy.",
+      "label": "I loved Cedar Point but somehow\u2026",
+      "enrichment_text": "Cedar Point, known for its thrilling roller coasters and expansive amusement park experience, has long been a favorite among thrill-seekers. However, King's Island offers a more relaxed atmosphere, with a variety of attractions and a generally less crowded environment, making it a more comfortable choice for those seeking a leisurely day at the park. The contrast between the two parks highlights personal preferences in amusement experiences, with comfort and ambiance playing significant roles in visitor satisfaction.",
+      "topics": [
+        "travel",
+        "places"
+      ],
+      "community_id": 0,
+      "community_label": "Texas Pride and Roller Coasters"
+    },
+    {
+      "id": 79,
+      "raw_text": "I want to ride in a gondola one day and admire the craft that goes into the boat and the training of the gondolier.",
+      "label": "I want to ride in a\u2026",
+      "enrichment_text": "Riding in a gondola through the enchanting canals of Venice offers a unique opportunity to appreciate the intricate craftsmanship of these iconic boats and the skillful training of gondoliers. Each gondola, a product of centuries-old artisanal tradition, is not just a mode of transport but a precision instrument designed for navigating the city's waterways. The experience is enriched by the gondolier's expertise, as they share the history and charm of Venice while providing a memorable journey for visitors.",
+      "topics": [
+        "travel",
+        "places"
+      ],
+      "community_id": 0,
+      "community_label": "Texas Pride and Roller Coasters"
+    },
+    {
+      "id": 80,
+      "raw_text": "I first got into politics in 2016, when Donald Trump railed against \"bad hombres\".",
+      "label": "I first got into politics in\u2026",
+      "enrichment_text": "In 2016, Donald Trump's controversial remark about \"bad hombres\" during a presidential debate highlighted his tough stance on immigration and crime, resonating with many voters who were concerned about drug-related issues. The phrase quickly gained traction on social media, illustrating the power of language in shaping political discourse. Trump's comments not only fueled his campaign's narrative but also sparked discussions about the implications of his rhetoric on U.S.-Mexico relations and the broader immigration debate.",
+      "topics": [
+        "beliefs"
+      ],
+      "community_id": 12,
+      "community_label": "Soothing Experiences and Interests"
+    },
+    {
+      "id": 81,
+      "raw_text": "I often overingest caffeine because of the amount of energy I think I need to get work done.",
+      "label": "I often overingest caffeine because of\u2026",
+      "enrichment_text": "Overingesting caffeine is a common behavior among individuals seeking to boost their energy levels for productivity, often leading to increased tolerance and potential health risks. While moderate caffeine consumption can enhance alertness and focus, excessive intake may result in negative effects such as anxiety, insomnia, and cardiovascular issues. Awareness of safe consumption limits is crucial, as guidelines suggest that adults should not exceed 400 milligrams of caffeine per day to minimize adverse health effects.",
+      "topics": [
+        "habits",
+        "health"
+      ],
+      "community_id": 7,
+      "community_label": "Productivity and Expression Habits"
+    },
+    {
+      "id": 82,
+      "raw_text": "I once wrote 25 facts for my MBA application essay at Fuqua Duke.",
+      "label": "I once wrote 25 facts for\u2026",
+      "enrichment_text": "The \"25 Random Things\" essay for the Duke Fuqua MBA application invites candidates to share a diverse array of personal and professional facts, showcasing their individuality and unique experiences. This format encourages applicants to reflect on their multifaceted lives, moving beyond typical work achievements to include personal stories, interests, and quirks. It serves as a vital tool for the admissions committee to understand the applicant's personality and how they might contribute to the Fuqua community.",
+      "topics": [
+        "education",
+        "career",
+        "personality"
+      ],
+      "community_id": 1,
+      "community_label": "Personal Growth and Career Concerns"
+    },
+    {
+      "id": 83,
+      "raw_text": "My favorite programming language is perhaps Python, but I absolutely hate it for serious use cases. I hate all programming languages.",
+      "label": "My favorite programming language is perhaps\u2026",
+      "enrichment_text": "Many programmers express a love-hate relationship with Python, appreciating its simplicity and readability for beginners while criticizing its limitations in serious applications, such as weak typing and performance issues. Despite being one of the most widely used programming languages, detractors argue that it lacks the robustness required for professional environments, often labeling it as a \"hobby language.\" This dichotomy reflects broader debates within the programming community about the balance between ease of use and the demands of complex, production-ready software development.",
+      "topics": [
+        "technology"
+      ],
+      "community_id": 5,
+      "community_label": "Complex Relationship With Hobbies"
+    },
+    {
+      "id": 84,
+      "raw_text": "I was a former software engineer and feel as if the world is entirely different from then.",
+      "label": "I was a former software engineer\u2026",
+      "enrichment_text": "Having been a software engineer, I often reflect on how drastically the landscape has changed since my early days in the field. The rapid evolution of technology and the rise of AI have transformed programming from a creative and exploratory endeavor into a more structured and sometimes overwhelming environment. Many former engineers, like myself, find meaning in adapting their skills to new challenges, whether by building businesses or exploring different avenues within the tech industry, as the sense of purpose in our work continues to evolve.",
+      "topics": [
+        "career",
+        "technology",
+        "intellectual"
+      ],
+      "community_id": 1,
+      "community_label": "Personal Growth and Career Concerns"
+    },
+    {
+      "id": 85,
+      "raw_text": "I enjoy reading doujinshi for the art and craft of the artist, and what he emphasizes.",
+      "label": "I enjoy reading doujinshi for the\u2026",
+      "enrichment_text": "Doujinshi are self-published, amateur manga or comics that often draw inspiration from existing works, showcasing the unique artistic styles and storytelling of their creators. Many enthusiasts appreciate doujinshi for their diverse art styles and the personal touch artists bring to their narratives, allowing for a deeper connection to the characters and themes. The medium serves as a vibrant platform for artists to express their creativity and engage with the anime and manga community, highlighting the importance of fan culture in contemporary art.",
+      "topics": [
+        "anime",
+        "creativity"
+      ],
+      "community_id": 2,
+      "community_label": "Anime and Related Interests"
+    },
+    {
+      "id": 86,
+      "raw_text": "I am not sure if people are capable of change, but it may be that they change so slowly we don't notice.",
+      "label": "I am not sure if people\u2026",
+      "enrichment_text": "The idea that people may not be capable of significant change, or that such changes occur so gradually they go unnoticed, resonates with many individuals reflecting on their relationships and personal growth. While external circumstances and appearances may evolve, core behaviors and attitudes often remain stable over time. This perspective encourages acceptance of oneself and others, highlighting the importance of focusing on personal change rather than expecting transformation in those around us.",
+      "topics": [
+        "beliefs",
+        "relationships",
+        "emotions"
+      ],
+      "community_id": 11,
+      "community_label": "Self-Reflection And Societal Critique"
+    },
+    {
+      "id": 87,
+      "raw_text": "I hate the angriness of Reddit and wish things would just settle down.",
+      "label": "I hate the angriness of Reddit\u2026",
+      "enrichment_text": "Many people express frustration with the pervasive anger found on platforms like Reddit, where heated discussions often overshadow constructive dialogue. While anger can sometimes drive progressive change, it frequently leads to divisiveness and alienation. The desire for a calmer, more rational discourse reflects a longing for community and understanding, rather than conflict and hostility.",
+      "topics": [
+        "emotions",
+        "beliefs"
+      ],
+      "community_id": 12,
+      "community_label": "Soothing Experiences and Interests"
+    },
+    {
+      "id": 88,
+      "raw_text": "I wish I could draw or even take photographs or something. I think creation is the only thing that matters nowadays.",
+      "label": "I wish I could draw or\u2026",
+      "enrichment_text": "The desire to create, whether through drawing or photography, reflects a deep-seated human need for expression and connection in a world often filled with distractions. Many believe that engaging in creative endeavors is one of the few pursuits that truly matter, as it fosters personal fulfillment and can lead to a greater understanding of oneself and the world. In a society where much time is spent on trivial matters, prioritizing creativity can provide a sense of purpose and joy.",
+      "topics": [
+        "creativity"
+      ],
+      "community_id": 9,
+      "community_label": "Struggle With Self-Expression"
+    },
+    {
+      "id": 89,
+      "raw_text": "I worry that AI will diminish both the technical and creative, leaving only management in its wake.",
+      "label": "I worry that AI will diminish\u2026",
+      "enrichment_text": "Concerns about AI's impact on both technical and creative fields are growing, with many fearing it may lead to a diminished role for human creators and critical thinkers. Faculty members in higher education express worries that reliance on AI tools could weaken students' critical thinking skills and academic integrity. As AI continues to evolve, there is a pressing need to ensure it enhances human capabilities rather than replaces them, preserving the unique qualities of human creativity and craftsmanship.",
+      "topics": [
+        "creativity",
+        "technology",
+        "education"
+      ],
+      "community_id": 1,
+      "community_label": "Personal Growth and Career Concerns"
+    },
+    {
+      "id": 90,
+      "raw_text": "Asparagus is my favorite vegetable for its crunch and presence on classy dishes.",
+      "label": "Asparagus is my favorite vegetable for\u2026",
+      "enrichment_text": "Asparagus is celebrated for its crisp texture and versatility, making it a favorite among many culinary enthusiasts. Its presence on classy dishes elevates meals, while its health benefits and ease of preparation\u2014whether roasted, saut\u00e9ed, or incorporated into various recipes\u2014make it a staple in kitchens. The vegetable's sweet flavor and vibrant green color also contribute to its appeal, making it a popular choice for both casual and gourmet dining.",
+      "topics": [
+        "food"
+      ],
+      "community_id": 4,
+      "community_label": "Mild Flavor Enjoyment"
+    },
+    {
+      "id": 91,
+      "raw_text": "I want to play disc golf some day.",
+      "label": "I want to play disc golf\u2026",
+      "enrichment_text": "Disc golf is an outdoor sport that combines elements of traditional golf with the use of flying discs, offering a fun and inexpensive way to enjoy nature while getting exercise. Originating in Southern California in the mid-1970s, it has gained popularity for its accessibility and the social experience it provides, as players can enjoy the game together in a relaxed setting. The objective is to complete each hole in the fewest throws, making it a game of skill, strategy, and patience.",
+      "topics": [
+        "physical_activity"
+      ],
+      "community_id": 10,
+      "community_label": "Leisure Activities and Interests"
+    },
+    {
+      "id": 92,
+      "raw_text": "I think security is a big deal and wish to have security in many ways in my life.",
+      "label": "I think security is a big\u2026",
+      "enrichment_text": "Security is a crucial aspect of life for many individuals, providing a sense of safety and stability in various environments. People often find meaning in security work, as it allows them to protect others and contribute to community safety. Additionally, the flexibility of security jobs and the opportunity for personal growth make it an appealing choice for those seeking a change or a side hustle.",
+      "topics": [
+        "beliefs",
+        "habits"
+      ],
+      "community_id": 1,
+      "community_label": "Personal Growth and Career Concerns"
+    },
+    {
+      "id": 93,
+      "raw_text": "I like trains and appreciate the scenery it passes and communal aspect of them.",
+      "label": "I like trains and appreciate the\u2026",
+      "enrichment_text": "Trains provide a unique perspective on the landscape, allowing passengers to experience the scenery as it scrolls by like a continuous reel of film. The communal aspect of train travel fosters connections among passengers, making each journey feel distinct and personal. Additionally, trains evoke a sense of distance and adventure that few other modes of transportation can match, enriching the overall travel experience.",
+      "topics": [
+        "travel",
+        "places"
+      ],
+      "community_id": 10,
+      "community_label": "Leisure Activities and Interests"
+    },
+    {
+      "id": 94,
+      "raw_text": "I want to write a blog and believe that this diagram is the first step towards that.",
+      "label": "I want to write a blog\u2026",
+      "enrichment_text": "I am eager to start a blog, and I believe that creating a structured diagram is my first step towards that goal. The initial phase involves selecting a topic that resonates with potential readers, whether it\u2019s addressing their questions, solving problems, or sharing insights from my own experiences. By identifying my target audience and understanding their interests, I can craft content that is both informative and engaging. This foundational work will guide me through the subsequent steps of outlining, writing, and refining my posts, ultimately helping me build a blog that connects with readers and provides valuable information.",
+      "topics": [
+        "creativity",
+        "intellectual",
+        "habits"
+      ],
+      "community_id": 7,
+      "community_label": "Productivity and Expression Habits"
+    },
+    {
+      "id": 95,
+      "raw_text": "I try to type quickly but have hovered around 100 WPM for many years.",
+      "label": "I try to type quickly but\u2026",
+      "enrichment_text": "Typing speed is a skill that many people strive to improve, with average speeds typically around 45 words per minute (WPM) and professional typists averaging about 90 WPM. While some individuals achieve impressive speeds of 155 WPM through dedicated practice, others may hover around 100 WPM for years, finding it a challenging yet rewarding pursuit. The journey to enhance typing speed often involves consistent practice, gamification, and the use of targeted drills to push personal limits, making it a meaningful endeavor for those seeking to boost productivity and efficiency in their daily tasks.",
+      "topics": [
+        "habits",
+        "technology"
+      ],
+      "community_id": 7,
+      "community_label": "Productivity and Expression Habits"
+    },
+    {
+      "id": 96,
+      "raw_text": "I am getting into other countries politics as well, including Britain, Australia, and Canada.",
+      "label": "I am getting into other countries\u2026",
+      "enrichment_text": "Exploring the political landscapes of Britain, Australia, and Canada reveals the interconnectedness of these Commonwealth nations, each with rich political histories and democratic traditions. As a personal interest, delving into their political systems offers insights into global governance, international relations, and shared values among English-speaking countries. Understanding these dynamics is increasingly relevant in a multipolar world where these nations play significant roles in addressing global challenges.",
+      "topics": [
+        "beliefs"
+      ],
+      "community_id": 3,
+      "community_label": "Cultural Appreciation and Exploration"
+    },
+    {
+      "id": 97,
+      "raw_text": "I find that animal videos are quite soothing to me and I enjoy seeing the full spectrum of nature.",
+      "label": "I find that animal videos are\u2026",
+      "enrichment_text": "Animal videos provide a soothing escape, allowing viewers to connect with the beauty and diversity of nature. The calming sounds of wildlife, such as birds singing and gentle rain, create a peaceful atmosphere that encourages mindfulness and relaxation. These videos not only entertain but also remind us of the joy found in the natural world, making them a cherished source of comfort for many.",
+      "topics": [
+        "emotions"
+      ],
+      "community_id": 12,
+      "community_label": "Soothing Experiences and Interests"
+    },
+    {
+      "id": 98,
+      "raw_text": "I am obsessed with flowers and use them as profile pictures on WhatsApp to represent my mood or stage in life.",
+      "label": "I am obsessed with flowers and\u2026",
+      "enrichment_text": "Obsessed with flowers, I use them as profile pictures on WhatsApp to reflect my mood or stage in life, believing they can uplift anyone's spirits. Research indicates that flowers lower stress and enhance positive emotions, creating a deeper connection to the world around us. Each time I encounter a flower, I feel compelled to capture its beauty, often resulting in a gallery filled with vibrant floral images that express my feelings and experiences.",
+      "topics": [
+        "emotions",
+        "creativity",
+        "habits"
+      ],
+      "community_id": 8,
+      "community_label": "Personality Insights and Expressions"
+    },
+    {
+      "id": 99,
+      "raw_text": "I am pulled in two directions, one to do nothing in life but the things that I know are pleasurable, and the other to experience the absolute full range of human experience.",
+      "label": "I am pulled in two directions,\u2026",
+      "enrichment_text": "The struggle between pursuing immediate pleasures and seeking a deeper, more fulfilling human experience reflects a common internal conflict many face in their lives. This duality often leads to feelings of futility and anxiety, as individuals grapple with the tension between indulgence and intentionality. Recognizing and addressing these opposing desires can foster self-compassion and ultimately guide one toward a more balanced and meaningful existence.",
+      "topics": [
+        "emotions",
+        "beliefs",
+        "habits"
+      ],
+      "community_id": 9,
+      "community_label": "Struggle With Self-Expression"
+    },
+    {
+      "id": 100,
+      "raw_text": "I wish I could be more disciplined.",
+      "label": "I wish I could be more\u2026",
+      "enrichment_text": "Many individuals struggle with self-discipline, recognizing its importance for achieving long-term goals and personal growth. Developing self-discipline involves creating personal rules, prioritizing tasks, and gradually increasing challenges while maintaining a positive mindset. By breaking down larger objectives into manageable actions and committing to change, people can cultivate discipline and improve their overall productivity and well-being.",
+      "topics": [
+        "habits",
+        "emotions",
+        "intellectual"
+      ],
+      "community_id": 11,
+      "community_label": "Self-Reflection And Societal Critique"
+    },
+    {
+      "id": 101,
+      "raw_text": "My favorite baseball pitches are the sinker and curve. My least favorite is the slider.",
+      "label": "My favorite baseball pitches are the\u2026",
+      "enrichment_text": "My favorite baseball pitches are the sinker and curveball, both known for their unique movement and effectiveness against hitters. The sinker, or 2-seam fastball, has a downward trajectory that can induce ground balls, while the curveball's dramatic drop can deceive batters, making it a visually stunning pitch. In contrast, I find the slider less appealing due to its more predictable horizontal movement, which can often resemble a fastball, making it easier for hitters to track.",
+      "topics": [
+        "physical_activity"
+      ],
+      "community_id": 5,
+      "community_label": "Complex Relationship With Hobbies"
+    },
+    {
+      "id": 102,
+      "raw_text": "I feel that the automated umpire in MLB was a step in the wrong direction, killing the soul of the game.",
+      "label": "I feel that the automated umpire\u2026",
+      "enrichment_text": "The introduction of an automated strike zone challenge system in Major League Baseball (MLB) for the 2026 season has sparked debate among fans and players, with critics arguing it undermines the traditional role of umpires and the game's essence. While the system aims to balance accuracy and the human element of officiating, many feel it detracts from the emotional and strategic nuances that define baseball. The compromise allows human umpires to call pitches while enabling teams to challenge specific calls, but concerns remain about the potential loss of the game's soul.",
+      "topics": [
+        "emotions",
+        "beliefs"
+      ],
+      "community_id": 5,
+      "community_label": "Complex Relationship With Hobbies"
+    },
+    {
+      "id": 103,
+      "raw_text": "I feel that despite the fact that some believe they are not gamblers, everyone has a desire to self-sabotage to create storylines in their life.",
+      "label": "I feel that despite the fact\u2026",
+      "enrichment_text": "Many people engage in self-sabotaging behaviors, often rooted in fear, shame, or low self-worth, which can manifest as a desire to create dramatic storylines in their lives. This tendency may stem from feelings of inadequacy or imposter syndrome, leading individuals to undermine their own success to avoid the perceived risks of achievement. Recognizing and addressing these patterns can be a crucial step toward personal growth and self-acceptance, allowing individuals to break free from the cycle of self-sabotage and embrace their potential.",
+      "topics": [
+        "emotions",
+        "personality",
+        "beliefs"
+      ],
+      "community_id": 11,
+      "community_label": "Self-Reflection And Societal Critique"
+    },
+    {
+      "id": 104,
+      "raw_text": "The field behind my middle school has been converted and walled off completely, destroying a piece of the community and past.",
+      "label": "The field behind my middle school\u2026",
+      "enrichment_text": "The field behind my middle school has been completely walled off and converted, erasing a significant part of the community's history and shared experiences. Such transformations reflect a broader trend of school closures and repurposing in urban areas, often driven by budget constraints and declining enrollment. These changes not only disrupt local traditions but also symbolize the loss of spaces that fostered childhood memories and community identity.",
+      "topics": [
+        "nostalgia",
+        "places"
+      ],
+      "community_id": 6,
+      "community_label": "Social Withdrawal and Nostalgia"
+    },
+    {
+      "id": 105,
+      "raw_text": "I tend to increase my productivity as the day goes on.",
+      "label": "I tend to increase my productivity\u2026",
+      "enrichment_text": "Many individuals experience increased productivity as the day progresses, often peaking in the afternoon. Research suggests that scheduling meetings around 2:30 PM can be effective, as people generally have more time and focus later in the day. Implementing structured routines, such as time blocking and taking intentional breaks, can further enhance productivity and help maintain motivation throughout the workday.",
+      "topics": [
+        "habits",
+        "career"
+      ],
+      "community_id": 7,
+      "community_label": "Productivity and Expression Habits"
+    },
+    {
+      "id": 106,
+      "raw_text": "I used to like streamers who play games like Phasmophobia.",
+      "label": "I used to like streamers who\u2026",
+      "enrichment_text": "Many people enjoy watching streamers play games like Phasmophobia due to the blend of horror and humor that unfolds during gameplay. The game's cooperative nature allows for organic interactions among players, creating suspenseful yet entertaining moments reminiscent of a horror movie. Streamers often focus on fun and camaraderie rather than competitive play, making it a popular choice for viewers seeking lighthearted entertainment in a spooky setting.",
+      "topics": [
+        "gaming",
+        "vtubers"
+      ],
+      "community_id": 3,
+      "community_label": "Cultural Appreciation and Exploration"
+    },
+    {
+      "id": 107,
+      "raw_text": "My favorite Pokemon is Wooloo, he is very precious.",
+      "label": "My favorite Pokemon is Wooloo, he\u2026",
+      "enrichment_text": "Wooloo is a beloved Pok\u00e9mon introduced in Pok\u00e9mon Sword and Shield, known for its adorable appearance and gentle nature. Fans appreciate Wooloo for its non-confrontational behavior, as it prefers to roll away from conflict rather than engage in battles. Its charm has garnered a dedicated following, making it a symbol of cuteness and a favorite among Pok\u00e9mon enthusiasts.",
+      "topics": [
+        "gaming"
+      ],
+      "community_id": 2,
+      "community_label": "Anime and Related Interests"
+    },
+    {
+      "id": 108,
+      "raw_text": "My first computing project was to help the UTD tool crib to build a interface to rent out tools to students.",
+      "label": "My first computing project was to\u2026",
+      "enrichment_text": "My first computing project involved developing an interface for the tool crib at the University of Texas at Dallas, aimed at facilitating tool rentals for students. This project was significant as it not only enhanced accessibility to essential equipment but also provided a practical application of my programming skills in a real-world setting. The experience underscored the importance of technology in supporting student resources and fostering a collaborative learning environment.",
+      "topics": [
+        "technology",
+        "education",
+        "career"
+      ],
+      "community_id": 1,
+      "community_label": "Personal Growth and Career Concerns"
+    },
+    {
+      "id": 109,
+      "raw_text": "We have some herbs and flowers growing at home. These include jasmine, Oklahoma redbud, tulasi, and others.",
+      "label": "We have some herbs and flowers\u2026",
+      "enrichment_text": "Growing herbs and flowers at home, such as jasmine, Oklahoma redbud, and tulasi, provides both aesthetic beauty and practical benefits. These plants not only enhance the garden's fragrance and visual appeal but also offer medicinal properties and attract beneficial pollinators. Cultivating a diverse array of flora fosters a deeper connection to nature and promotes sustainable gardening practices.",
+      "topics": [
+        "food",
+        "places"
+      ],
+      "community_id": 8,
+      "community_label": "Personality Insights and Expressions"
+    },
+    {
+      "id": 110,
+      "raw_text": "I own a lot of baseball bobbleheads, my collection is around 7-8 in total.",
+      "label": "I own a lot of baseball\u2026",
+      "enrichment_text": "Owning a collection of 7-8 baseball bobbleheads is a unique way to celebrate the sport and its memorable moments. Each bobblehead often represents a special game or player, making them meaningful keepsakes for fans. Collectors often enjoy trading and acquiring these figures from various stadiums, enhancing their connection to the game and its culture.",
+      "topics": [
+        "physical_activity"
+      ],
+      "community_id": 2,
+      "community_label": "Anime and Related Interests"
+    },
+    {
+      "id": 111,
+      "raw_text": "I own some anime figurines and think they are the best purchase I have made. I regret they are so expensive though.",
+      "label": "I own some anime figurines and\u2026",
+      "enrichment_text": "Owning anime figurines has become a cherished hobby for many fans, including myself, as they serve as tangible representations of beloved characters and series. Despite their high prices, which can be a source of regret, the joy and satisfaction derived from displaying these intricately crafted collectibles often outweigh the cost. The growing demand for figures from popular franchises highlights their significance in both personal enjoyment and as part of a larger collector culture.",
+      "topics": [
+        "anime",
+        "creativity",
+        "habits"
+      ],
+      "community_id": 2,
+      "community_label": "Anime and Related Interests"
+    },
+    {
+      "id": 112,
+      "raw_text": "I want to live in OKC some day. After visiting about a year ago, I was highly impresed by the general atmosphere.",
+      "label": "I want to live in OKC\u2026",
+      "enrichment_text": "Oklahoma City (OKC) has captured my interest as a potential future home due to its vibrant atmosphere and strong sense of community. After visiting a year ago, I was impressed by the city's affordability, diverse cultural offerings, and welcoming residents. With a cost of living significantly below the national average and a growing job market, OKC stands out as an appealing place to live and thrive.",
+      "topics": [
+        "places",
+        "travel",
+        "career"
+      ],
+      "community_id": 0,
+      "community_label": "Texas Pride and Roller Coasters"
+    },
+    {
+      "id": 113,
+      "raw_text": "I tried to set up an OpenClaw on my personal mac but it didn't seem to have the intended effect. I want to try again sometime.",
+      "label": "I tried to set up an\u2026",
+      "enrichment_text": "I attempted to set up OpenClaw on my personal Mac but encountered some challenges that prevented it from functioning as intended. OpenClaw is a tool designed for managing and automating tasks, particularly useful for developers and tech enthusiasts. Despite the initial difficulties, I am eager to try the installation again, as I believe it could enhance my workflow significantly.",
+      "topics": [
+        "technology",
+        "gaming"
+      ],
+      "community_id": 1,
+      "community_label": "Personal Growth and Career Concerns"
+    },
+    {
+      "id": 114,
+      "raw_text": "I used to play anime music video games like BanG Dream and osu, but was never especially skilled at it.",
+      "label": "I used to play anime music\u2026",
+      "enrichment_text": "Playing rhythm games like \"BanG Dream\" and \"osu!\" offers a unique blend of music and gameplay, attracting fans with their engaging mechanics and extensive libraries of anime music. Despite not being particularly skilled, many players, including myself, find joy in the challenge and satisfaction of mastering songs, often spending countless hours immersed in the experience. These games serve as a nostalgic connection to anime culture, preserving themes that might otherwise fade into obscurity.",
+      "topics": [
+        "gaming",
+        "music",
+        "anime"
+      ],
+      "community_id": 2,
+      "community_label": "Anime and Related Interests"
+    },
+    {
+      "id": 115,
+      "raw_text": "I really like Gustav Holst's Jupiter from his Planets Suite.",
+      "label": "I really like Gustav Holst's Jupiter\u2026",
+      "enrichment_text": "Gustav Holst's \"Jupiter, the Bringer of Jollity,\" from his orchestral suite *The Planets*, is celebrated for its exuberant melodies and vibrant orchestration, evoking a sense of adventure and joy. Composed between 1914 and 1917, the suite reflects Holst's fascination with astrology, with each movement representing a different planet and its astrological significance. The rousing themes of Jupiter, particularly the famous melody that later became the hymn \"I Vow to Thee, My Country,\" resonate deeply with listeners, transporting them to a world of vitality and inspiration.",
+      "topics": [
+        "music"
+      ],
+      "community_id": 5,
+      "community_label": "Complex Relationship With Hobbies"
+    },
+    {
+      "id": 116,
+      "raw_text": "I want to do a computer vision project one day, perhaps to detect objects on video and track their moveements.",
+      "label": "I want to do a computer\u2026",
+      "enrichment_text": "Video object tracking is a crucial computer vision technique that detects and follows objects across video frames, maintaining their identity over time. It combines object detection, which identifies objects in individual frames, with tracking to create continuous trajectories, making it essential for applications like surveillance, traffic monitoring, and augmented reality. As technology advances, projects utilizing video object tracking can provide valuable insights and enhance user experiences across various sectors.",
+      "topics": [
+        "technology",
+        "gaming"
+      ],
+      "community_id": 1,
+      "community_label": "Personal Growth and Career Concerns"
+    },
+    {
+      "id": 117,
+      "raw_text": "I have some tea flavors I like more, like mint, green, and earl grey.",
+      "label": "I have some tea flavors I\u2026",
+      "enrichment_text": "Earl Grey, green, and mint teas are popular choices among tea enthusiasts for their distinct flavors and health benefits. Earl Grey, known for its bold black tea base infused with bergamot oil, offers a refreshing citrusy taste, while green tea is celebrated for its soothing properties and high antioxidant content. Mint tea adds a refreshing twist, making these flavors not only enjoyable but also meaningful for those seeking comfort and wellness in their daily routines.",
+      "topics": [
+        "food"
+      ],
+      "community_id": 4,
+      "community_label": "Mild Flavor Enjoyment"
+    },
+    {
+      "id": 118,
+      "raw_text": "I tend to fall asleep on planes very easily.",
+      "label": "I tend to fall asleep on\u2026",
+      "enrichment_text": "Falling asleep easily on planes is a common experience for many travelers, often attributed to the soothing hum of the engines and the confined space that mimics a cozy environment. For those who struggle with sleep in other settings, the ability to doze off mid-flight can be a welcome relief, allowing them to arrive at their destination more rested. Factors such as choosing a window seat, staying hydrated, and minimizing caffeine and alcohol intake can enhance this ability, making air travel more enjoyable and less exhausting.",
+      "topics": [
+        "travel",
+        "habits",
+        "health"
+      ],
+      "community_id": 12,
+      "community_label": "Soothing Experiences and Interests"
+    },
+    {
+      "id": 119,
+      "raw_text": "I want to wear more unique clothes, like tie-dye shirts, in my wardrobe.",
+      "label": "I want to wear more unique\u2026",
+      "enrichment_text": "Wearing unique clothes, such as tie-dye shirts, allows individuals to express their creativity and personal style. Tie-dye clothing, known for its vibrant colors and artistic patterns, resonates with those who appreciate bohemian aesthetics and seek comfort in their wardrobe. The trend not only adds a playful touch to everyday outfits but also encourages sustainable fashion practices by upcycling old garments into one-of-a-kind pieces.",
+      "topics": [
+        "creativity"
+      ],
+      "community_id": 9,
+      "community_label": "Struggle With Self-Expression"
+    },
+    {
+      "id": 120,
+      "raw_text": "I was never very good at keeping to rhythm when playing music, and was very much at my own pace.",
+      "label": "I was never very good at\u2026",
+      "enrichment_text": "Struggling with rhythm in music is a common challenge, as many individuals find it difficult to synchronize their playing with a steady beat. This issue often stems from a lack of inner timing or anticipation during complex passages, leading to a disconnect between the musician and the music. Developing a personal sense of rhythm can be meaningful, as it not only enhances musical performance but also fosters a deeper connection to the art of music itself.",
+      "topics": [
+        "music"
+      ],
+      "community_id": 11,
+      "community_label": "Self-Reflection And Societal Critique"
+    },
+    {
+      "id": 121,
+      "raw_text": "When going to India, I am instantly surprised by the amount of random noises from the street.",
+      "label": "When going to India, I am\u2026",
+      "enrichment_text": "Traveling to India often brings an overwhelming sensory experience, particularly due to the myriad of random noises that fill the streets. From honking horns and street vendors calling out to the sounds of bustling crowds, these auditory elements create a vibrant atmosphere that can be both surprising and captivating for visitors. This cacophony reflects the country's rich cultural diversity and dynamic urban life, making it a memorable aspect of the Indian experience.",
+      "topics": [
+        "travel",
+        "places"
+      ],
+      "community_id": 3,
+      "community_label": "Cultural Appreciation and Exploration"
+    },
+    {
+      "id": 122,
+      "raw_text": "I don't like flavors like greek yogurt, white cheddar, etc. I also don't like onions due to the effect on breath.",
+      "label": "I don't like flavors like greek\u2026",
+      "enrichment_text": "A personal preference against certain flavors, such as Greek yogurt and white cheddar, stems from a dislike for their taste profiles. Additionally, the aversion to onions is influenced by their impact on breath, highlighting a concern for social interactions and personal comfort. These dietary choices reflect individual taste and the importance of food preferences in daily life.",
+      "topics": [
+        "food"
+      ],
+      "community_id": 4,
+      "community_label": "Mild Flavor Enjoyment"
+    },
+    {
+      "id": 123,
+      "raw_text": "I once attended a airshow when I was younger and was thoroughly impressed by the skill involved.",
+      "label": "I once attended a airshow when\u2026",
+      "enrichment_text": "Attending an airshow can be a captivating experience for people of all ages, showcasing the incredible skill and precision of pilots as they perform daring maneuvers and aerial displays. My first airshow at Olathe Naval Air Station left a lasting impression on me, as I marveled at the artistry and technical expertise involved in flying. Such events not only celebrate aviation but also foster a sense of community and inspire future generations to explore the skies.",
+      "topics": [
+        "physical_activity",
+        "travel"
+      ],
+      "community_id": 0,
+      "community_label": "Texas Pride and Roller Coasters"
+    },
+    {
+      "id": 124,
+      "raw_text": "I once saw a bear and her cub in Yosemite and found it very charming.",
+      "label": "I once saw a bear and\u2026",
+      "enrichment_text": "Seeing a bear and her cub in Yosemite National Park is a captivating experience that highlights the beauty of wildlife in their natural habitat. Such encounters evoke a sense of wonder and connection to nature, reminding visitors of the importance of preserving these environments. However, it's crucial for park-goers to follow food storage regulations to prevent attracting bears and ensure their safety, as human interactions can lead to tragic consequences for these animals.",
+      "topics": [
+        "travel",
+        "places",
+        "emotions"
+      ],
+      "community_id": 12,
+      "community_label": "Soothing Experiences and Interests"
+    },
+    {
+      "id": 125,
+      "raw_text": "I eat all kinds of cuisine, but find myself returning to Mexican for large meals and comfort.",
+      "label": "I eat all kinds of cuisine,\u2026",
+      "enrichment_text": "Many people find comfort in returning to their favorite cuisines, with Mexican food often serving as a go-to for large meals and nostalgia. Rich in history and diverse flavors, Mexican cuisine encompasses much more than the typical dishes known in the U.S., showcasing a variety of regional specialties and ingredients like corn, which has deep cultural significance. The communal and homestyle nature of Mexican dining fosters a sense of belonging and warmth, making it a cherished choice for those seeking both comfort and culinary adventure.",
+      "topics": [
+        "food"
+      ],
+      "community_id": 4,
+      "community_label": "Mild Flavor Enjoyment"
+    },
+    {
+      "id": 126,
+      "raw_text": "I used to spend some time in the recreation centers when younger during the summers, but it was mostly to play ping pong or to do things that were not sports.",
+      "label": "I used to spend some time\u2026",
+      "enrichment_text": "Spending summers at recreation centers often provided a space for social interaction and leisure activities beyond traditional sports, such as playing ping pong. These centers foster community engagement and offer diverse programs that cater to various interests, allowing individuals to connect and enjoy recreational pursuits. Engaging in such activities not only promotes physical well-being but also enhances personal relationships and community spirit.",
+      "topics": [
+        "physical_activity",
+        "relationships"
+      ],
+      "community_id": 6,
+      "community_label": "Social Withdrawal and Nostalgia"
+    },
+    {
+      "id": 127,
+      "raw_text": "I think that philanthropy is great, but often wonder if it makes it to its intended recipient.",
+      "label": "I think that philanthropy is great,\u2026",
+      "enrichment_text": "Philanthropy often raises questions about the effectiveness of aid reaching its intended recipients, prompting discussions about accountability and impact. Many individuals and organizations strive to ensure that their contributions genuinely benefit those in need, reflecting a desire for meaningful engagement and social responsibility. Notable examples, such as the long-delayed delivery of a postcard that sparked a new friendship, illustrate the importance of connection and the potential for unexpected outcomes in acts of giving.",
+      "topics": [
+        "beliefs",
+        "relationships"
+      ],
+      "community_id": 11,
+      "community_label": "Self-Reflection And Societal Critique"
+    },
+    {
+      "id": 128,
+      "raw_text": "I inexplicably switch into an Indian accent when talking to Indian people.",
+      "label": "I inexplicably switch into an Indian\u2026",
+      "enrichment_text": "Switching to an Indian accent when speaking with fellow Indians, often referred to as code-switching, is a common phenomenon among individuals of Indian origin. This behavior can serve to create a sense of familiarity and connection, especially in social settings like family gatherings or cultural events. Many find it meaningful as it reflects their cultural identity and shared experiences, allowing for a playful and relatable form of communication.",
+      "topics": [
+        "relationships",
+        "beliefs",
+        "personality"
+      ],
+      "community_id": 3,
+      "community_label": "Cultural Appreciation and Exploration"
+    },
+    {
+      "id": 129,
+      "raw_text": "My favorite JP Vtuber is Okayu, her voice is very calming to me.",
+      "label": "My favorite JP Vtuber is Okayu,\u2026",
+      "enrichment_text": "Okayu, a popular JP Vtuber from Hololive, is cherished for her calming voice and gentle personality, which provide a comforting presence for her viewers. As a cat girl raised by an old woman running an onigiri store, her unique character design and sense of humor resonate with fans, making her a beloved figure in the Vtuber community. Her streams often feature gaming, singing, and engaging interactions that create a warm and inviting atmosphere for her audience.",
+      "topics": [
+        "vtubers",
+        "gaming",
+        "music"
+      ],
+      "community_id": 2,
+      "community_label": "Anime and Related Interests"
+    },
+    {
+      "id": 130,
+      "raw_text": "My favorite emoji is the moyai statue, which made me very happy when Koseki Bijou debuted.",
+      "label": "My favorite emoji is the moyai\u2026",
+      "enrichment_text": "My favorite emoji is the moyai statue, which represents Koseki Bijou, a member of hololive English who debuted on July 30, 2023. Known for her playful personality and love for meme culture, Bijou has quickly become a beloved figure among fans, who refer to themselves as \"Pebbles.\" The moyai emoji symbolizes her unique character and connection to her fanbase, making it a meaningful representation of her identity.",
+      "topics": [
+        "vtubers",
+        "emotions",
+        "creativity"
+      ],
+      "community_id": 2,
+      "community_label": "Anime and Related Interests"
+    },
+    {
+      "id": 131,
+      "raw_text": "I have various smaller techniques to manage my time and make sure I am not losing track.",
+      "label": "I have various smaller techniques to\u2026",
+      "enrichment_text": "I employ various techniques to manage my time effectively and ensure I stay on track. By scheduling small tasks\u2014like drafting emails or creating grocery lists\u2014during otherwise unproductive moments, I maximize my time. I also prioritize a daily highlight, blocking time in my calendar for it, while maintaining a to-do list to keep track of other tasks. Additionally, I utilize time management strategies such as the Pomodoro Technique, which breaks my work into focused intervals with breaks, helping me maintain productivity without feeling overwhelmed.",
+      "topics": [
+        "habits",
+        "intellectual"
+      ],
+      "community_id": 7,
+      "community_label": "Productivity and Expression Habits"
+    },
+    {
+      "id": 132,
+      "raw_text": "I tend to dress in a plain way. I cannot stomach wearing anything that is too tight around the body.",
+      "label": "I tend to dress in a\u2026",
+      "enrichment_text": "Dressing in a plain and loose-fitting manner is often a personal choice driven by comfort and health considerations. Tight clothing can lead to various gastrointestinal issues, such as acid reflux and discomfort, particularly for those with conditions like irritable bowel syndrome (IBS). Prioritizing looser garments not only enhances physical comfort but also helps avoid potential health complications associated with restrictive attire.",
+      "topics": [
+        "health",
+        "habits"
+      ],
+      "community_id": 9,
+      "community_label": "Struggle With Self-Expression"
+    },
+    {
+      "id": 133,
+      "raw_text": "I tend to put all my subjects, and even my personal diary, in the same notebook.",
+      "label": "I tend to put all my\u2026",
+      "enrichment_text": "Combining all subjects and personal reflections into a single notebook fosters a sense of organization and continuity in one\u2019s life. Many people find this practice meaningful as it allows them to track their thoughts, experiences, and important events in a cohesive manner, creating a personal archive that reflects their growth and journey. Additionally, using a single notebook can simplify the writing process, making it easier to revisit past entries and insights.",
+      "topics": [
+        "education",
+        "habits",
+        "intellectual"
+      ],
+      "community_id": 7,
+      "community_label": "Productivity and Expression Habits"
+    },
+    {
+      "id": 134,
+      "raw_text": "My favorite pen is the Pentel Energel, followed by the Pentel RSVP.",
+      "label": "My favorite pen is the Pentel\u2026",
+      "enrichment_text": "The Pentel EnerGel is a favorite among writers for its smooth flow, fast-drying ink, and vibrant colors, making it particularly appealing for left-handed users. Following closely is the Pentel R.S.V.P., which serves as a reliable, budget-friendly option known for its consistent performance and comfort during everyday writing tasks. Both pens have become staples in my writing routine, enhancing my note-taking and journaling experiences.",
+      "topics": [
+        "habits",
+        "creativity"
+      ],
+      "community_id": 4,
+      "community_label": "Mild Flavor Enjoyment"
+    },
+    {
+      "id": 135,
+      "raw_text": "I think some genres of art are really beautiful, like Monet and his impressionist paintings.",
+      "label": "I think some genres of art\u2026",
+      "enrichment_text": "Claude Monet, a pivotal figure in the 19th-century Impressionist movement, is celebrated for his innovative use of light and color to capture the essence of nature in his paintings. His technique, characterized by small, visible brush strokes and a focus on the fleeting effects of light, invites viewers to experience the vibrancy of outdoor scenes. Notable works like \"Impression, Sunrise\" not only exemplify his style but also played a crucial role in defining the Impressionist movement, which sought to convey personal perceptions of the world rather than precise details.",
+      "topics": [
+        "creativity"
+      ],
+      "community_id": 9,
+      "community_label": "Struggle With Self-Expression"
+    },
+    {
+      "id": 136,
+      "raw_text": "I started to chew gum as a way to calm myself down, until I found that it had the opposite effect.",
+      "label": "I started to chew gum as\u2026",
+      "enrichment_text": "Chewing gum was initially a calming strategy for me, as it is often associated with stress relief and relaxation due to its rhythmic, repetitive motion. However, I discovered that for some, including myself, it can lead to increased anxiety rather than the intended calm. Research indicates that while gum can lower cortisol levels and enhance alertness, it may also cause digestive issues and discomfort, complicating its effectiveness as a stress management tool.",
+      "topics": [
+        "habits",
+        "emotions",
+        "health"
+      ],
+      "community_id": 4,
+      "community_label": "Mild Flavor Enjoyment"
+    },
+    {
+      "id": 137,
+      "raw_text": "My eyesight is not the best, but sometimes I wonder what the point of seeing full detail is in daily life.",
+      "label": "My eyesight is not the best,\u2026",
+      "enrichment_text": "Having less-than-perfect eyesight can lead to a unique perspective on daily life, prompting reflections on the importance of detail versus overall experience. While many prioritize clear vision for enjoyment and safety, some find meaning in the moments that transcend visual clarity, appreciating life\u2019s broader strokes. Engaging in self-care practices, such as regular eye checkups and mindful habits, can enhance overall well-being and help maintain a connection to the world, regardless of visual limitations.",
+      "topics": [
+        "health",
+        "emotions",
+        "intellectual"
+      ],
+      "community_id": 9,
+      "community_label": "Struggle With Self-Expression"
+    },
+    {
+      "id": 138,
+      "raw_text": "My absolute favorite season is summer. Winter is a complicated season, but also fun. Spring is interesting, only as an anticipation to summer. Fall is again, only as an prelude to winter.",
+      "label": "My absolute favorite season is summer.\u2026",
+      "enrichment_text": "Summer is often celebrated as the favorite season for many due to its warm weather, longer days, and opportunities for outdoor activities and vacations. While winter presents its own unique charm with snow and holiday festivities, it can also be challenging with cold temperatures. Spring serves as a transitional period, marking the anticipation of summer, while fall is viewed as a prelude to winter, characterized by its colorful foliage and harvest celebrations.",
+      "topics": [
+        "habits",
+        "emotions"
+      ],
+      "community_id": 5,
+      "community_label": "Complex Relationship With Hobbies"
+    },
+    {
+      "id": 139,
+      "raw_text": "I think mental health is hugely important, but it is being approached the wrong way by society, who aren't advocating for self-sufficiency.",
+      "label": "I think mental health is hugely\u2026",
+      "enrichment_text": "Mental health is a crucial aspect of overall well-being, influencing how individuals think, feel, and interact with others. Despite growing awareness, societal approaches often focus on external support rather than fostering self-sufficiency, which can empower individuals to manage their mental health more effectively. Promoting self-care and challenging stigma are essential for creating a supportive environment where everyone feels encouraged to prioritize their mental health.",
+      "topics": [
+        "beliefs",
+        "emotions",
+        "health"
+      ],
+      "community_id": 11,
+      "community_label": "Self-Reflection And Societal Critique"
+    }
+  ],
+  "edges": [
+    {
+      "source": 1,
+      "target": 48,
+      "similarity": 0.4195,
+      "type": "cluster"
+    },
+    {
+      "source": 1,
+      "target": 60,
+      "similarity": 0.4137,
+      "type": "cluster"
+    },
+    {
+      "source": 1,
+      "target": 112,
+      "similarity": 0.3661,
+      "type": "cluster"
+    },
+    {
+      "source": 1,
+      "target": 66,
+      "similarity": 0.3465,
+      "type": "cluster"
+    },
+    {
+      "source": 1,
+      "target": 59,
+      "similarity": 0.309,
+      "type": "cluster"
+    },
+    {
+      "source": 2,
+      "target": 58,
+      "similarity": 0.6208,
+      "type": "cluster"
+    },
+    {
+      "source": 2,
+      "target": 32,
+      "similarity": 0.4606,
+      "type": "cluster"
+    },
+    {
+      "source": 2,
+      "target": 10,
+      "similarity": 0.3706,
+      "type": "bridge"
+    },
+    {
+      "source": 3,
+      "target": 139,
+      "similarity": 0.4451,
+      "type": "cluster"
+    },
+    {
+      "source": 3,
+      "target": 127,
+      "similarity": 0.3939,
+      "type": "cluster"
+    },
+    {
+      "source": 3,
+      "target": 10,
+      "similarity": 0.3375,
+      "type": "bridge"
+    },
+    {
+      "source": 3,
+      "target": 86,
+      "similarity": 0.3352,
+      "type": "cluster"
+    },
+    {
+      "source": 3,
+      "target": 87,
+      "similarity": 0.3263,
+      "type": "bridge"
+    },
+    {
+      "source": 3,
+      "target": 96,
+      "similarity": 0.3159,
+      "type": "bridge"
+    },
+    {
+      "source": 4,
+      "target": 68,
+      "similarity": 0.426,
+      "type": "cluster"
+    },
+    {
+      "source": 4,
+      "target": 34,
+      "similarity": 0.3319,
+      "type": "cluster"
+    },
+    {
+      "source": 4,
+      "target": 65,
+      "similarity": 0.3252,
+      "type": "cluster"
+    },
+    {
+      "source": 4,
+      "target": 126,
+      "similarity": 0.3195,
+      "type": "bridge"
+    },
+    {
+      "source": 5,
+      "target": 117,
+      "similarity": 0.5761,
+      "type": "cluster"
+    },
+    {
+      "source": 5,
+      "target": 122,
+      "similarity": 0.4609,
+      "type": "cluster"
+    },
+    {
+      "source": 5,
+      "target": 70,
+      "similarity": 0.4392,
+      "type": "cluster"
+    },
+    {
+      "source": 5,
+      "target": 125,
+      "similarity": 0.3542,
+      "type": "cluster"
+    },
+    {
+      "source": 5,
+      "target": 69,
+      "similarity": 0.3496,
+      "type": "cluster"
+    },
+    {
+      "source": 5,
+      "target": 42,
+      "similarity": 0.3396,
+      "type": "cluster"
+    },
+    {
+      "source": 5,
+      "target": 43,
+      "similarity": 0.318,
+      "type": "cluster"
+    },
+    {
+      "source": 6,
+      "target": 81,
+      "similarity": 0.5464,
+      "type": "cluster"
+    },
+    {
+      "source": 6,
+      "target": 105,
+      "similarity": 0.4637,
+      "type": "cluster"
+    },
+    {
+      "source": 6,
+      "target": 66,
+      "similarity": 0.4349,
+      "type": "bridge"
+    },
+    {
+      "source": 6,
+      "target": 131,
+      "similarity": 0.4191,
+      "type": "cluster"
+    },
+    {
+      "source": 6,
+      "target": 100,
+      "similarity": 0.4025,
+      "type": "bridge"
+    },
+    {
+      "source": 6,
+      "target": 118,
+      "similarity": 0.3991,
+      "type": "bridge"
+    },
+    {
+      "source": 6,
+      "target": 33,
+      "similarity": 0.3898,
+      "type": "bridge"
+    },
+    {
+      "source": 6,
+      "target": 120,
+      "similarity": 0.3618,
+      "type": "bridge"
+    },
+    {
+      "source": 7,
+      "target": 19,
+      "similarity": 0.6562,
+      "type": "cluster"
+    },
+    {
+      "source": 7,
+      "target": 50,
+      "similarity": 0.5209,
+      "type": "cluster"
+    },
+    {
+      "source": 7,
+      "target": 27,
+      "similarity": 0.4709,
+      "type": "cluster"
+    },
+    {
+      "source": 7,
+      "target": 13,
+      "similarity": 0.4633,
+      "type": "cluster"
+    },
+    {
+      "source": 7,
+      "target": 46,
+      "similarity": 0.4584,
+      "type": "cluster"
+    },
+    {
+      "source": 7,
+      "target": 114,
+      "similarity": 0.4348,
+      "type": "cluster"
+    },
+    {
+      "source": 7,
+      "target": 85,
+      "similarity": 0.4253,
+      "type": "cluster"
+    },
+    {
+      "source": 7,
+      "target": 97,
+      "similarity": 0.4169,
+      "type": "bridge"
+    },
+    {
+      "source": 8,
+      "target": 49,
+      "similarity": 0.3377,
+      "type": "bridge"
+    },
+    {
+      "source": 8,
+      "target": 115,
+      "similarity": 0.324,
+      "type": "cluster"
+    },
+    {
+      "source": 8,
+      "target": 138,
+      "similarity": 0.3143,
+      "type": "cluster"
+    },
+    {
+      "source": 9,
+      "target": 28,
+      "similarity": 0.4248,
+      "type": "cluster"
+    },
+    {
+      "source": 9,
+      "target": 35,
+      "similarity": 0.4151,
+      "type": "cluster"
+    },
+    {
+      "source": 9,
+      "target": 72,
+      "similarity": 0.408,
+      "type": "cluster"
+    },
+    {
+      "source": 9,
+      "target": 133,
+      "similarity": 0.378,
+      "type": "bridge"
+    },
+    {
+      "source": 9,
+      "target": 137,
+      "similarity": 0.3575,
+      "type": "bridge"
+    },
+    {
+      "source": 9,
+      "target": 14,
+      "similarity": 0.3405,
+      "type": "cluster"
+    },
+    {
+      "source": 9,
+      "target": 37,
+      "similarity": 0.3306,
+      "type": "bridge"
+    },
+    {
+      "source": 9,
+      "target": 125,
+      "similarity": 0.3242,
+      "type": "bridge"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "similarity": 0.4317,
+      "type": "cluster"
+    },
+    {
+      "source": 10,
+      "target": 103,
+      "similarity": 0.4073,
+      "type": "bridge"
+    },
+    {
+      "source": 10,
+      "target": 96,
+      "similarity": 0.3232,
+      "type": "cluster"
+    },
+    {
+      "source": 10,
+      "target": 28,
+      "similarity": 0.323,
+      "type": "bridge"
+    },
+    {
+      "source": 11,
+      "target": 106,
+      "similarity": 0.3594,
+      "type": "cluster"
+    },
+    {
+      "source": 11,
+      "target": 74,
+      "similarity": 0.3244,
+      "type": "cluster"
+    },
+    {
+      "source": 12,
+      "target": 53,
+      "similarity": 0.3667,
+      "type": "cluster"
+    },
+    {
+      "source": 13,
+      "target": 114,
+      "similarity": 0.4309,
+      "type": "cluster"
+    },
+    {
+      "source": 13,
+      "target": 130,
+      "similarity": 0.3553,
+      "type": "cluster"
+    },
+    {
+      "source": 13,
+      "target": 129,
+      "similarity": 0.3551,
+      "type": "cluster"
+    },
+    {
+      "source": 14,
+      "target": 87,
+      "similarity": 0.4372,
+      "type": "bridge"
+    },
+    {
+      "source": 14,
+      "target": 41,
+      "similarity": 0.4133,
+      "type": "cluster"
+    },
+    {
+      "source": 14,
+      "target": 64,
+      "similarity": 0.364,
+      "type": "cluster"
+    },
+    {
+      "source": 14,
+      "target": 126,
+      "similarity": 0.356,
+      "type": "cluster"
+    },
+    {
+      "source": 14,
+      "target": 20,
+      "similarity": 0.3555,
+      "type": "bridge"
+    },
+    {
+      "source": 14,
+      "target": 56,
+      "similarity": 0.3476,
+      "type": "bridge"
+    },
+    {
+      "source": 15,
+      "target": 65,
+      "similarity": 0.4867,
+      "type": "cluster"
+    },
+    {
+      "source": 15,
+      "target": 37,
+      "similarity": 0.3848,
+      "type": "bridge"
+    },
+    {
+      "source": 15,
+      "target": 93,
+      "similarity": 0.3769,
+      "type": "cluster"
+    },
+    {
+      "source": 15,
+      "target": 91,
+      "similarity": 0.3757,
+      "type": "cluster"
+    },
+    {
+      "source": 15,
+      "target": 21,
+      "similarity": 0.3564,
+      "type": "bridge"
+    },
+    {
+      "source": 15,
+      "target": 49,
+      "similarity": 0.3421,
+      "type": "cluster"
+    },
+    {
+      "source": 16,
+      "target": 75,
+      "similarity": 0.4389,
+      "type": "cluster"
+    },
+    {
+      "source": 16,
+      "target": 26,
+      "similarity": 0.3977,
+      "type": "bridge"
+    },
+    {
+      "source": 16,
+      "target": 96,
+      "similarity": 0.3047,
+      "type": "cluster"
+    },
+    {
+      "source": 17,
+      "target": 61,
+      "similarity": 0.5599,
+      "type": "cluster"
+    },
+    {
+      "source": 17,
+      "target": 82,
+      "similarity": 0.37,
+      "type": "cluster"
+    },
+    {
+      "source": 17,
+      "target": 18,
+      "similarity": 0.342,
+      "type": "cluster"
+    },
+    {
+      "source": 18,
+      "target": 108,
+      "similarity": 0.3376,
+      "type": "cluster"
+    },
+    {
+      "source": 18,
+      "target": 62,
+      "similarity": 0.3023,
+      "type": "cluster"
+    },
+    {
+      "source": 18,
+      "target": 61,
+      "similarity": 0.3005,
+      "type": "cluster"
+    },
+    {
+      "source": 19,
+      "target": 50,
+      "similarity": 0.5118,
+      "type": "cluster"
+    },
+    {
+      "source": 19,
+      "target": 46,
+      "similarity": 0.4029,
+      "type": "cluster"
+    },
+    {
+      "source": 19,
+      "target": 27,
+      "similarity": 0.3688,
+      "type": "cluster"
+    },
+    {
+      "source": 19,
+      "target": 111,
+      "similarity": 0.3668,
+      "type": "cluster"
+    },
+    {
+      "source": 19,
+      "target": 130,
+      "similarity": 0.3528,
+      "type": "cluster"
+    },
+    {
+      "source": 19,
+      "target": 129,
+      "similarity": 0.3487,
+      "type": "cluster"
+    },
+    {
+      "source": 20,
+      "target": 28,
+      "similarity": 0.445,
+      "type": "bridge"
+    },
+    {
+      "source": 20,
+      "target": 99,
+      "similarity": 0.4439,
+      "type": "cluster"
+    },
+    {
+      "source": 20,
+      "target": 71,
+      "similarity": 0.4008,
+      "type": "bridge"
+    },
+    {
+      "source": 20,
+      "target": 33,
+      "similarity": 0.3891,
+      "type": "cluster"
+    },
+    {
+      "source": 20,
+      "target": 31,
+      "similarity": 0.3737,
+      "type": "bridge"
+    },
+    {
+      "source": 20,
+      "target": 58,
+      "similarity": 0.3619,
+      "type": "bridge"
+    },
+    {
+      "source": 20,
+      "target": 132,
+      "similarity": 0.3558,
+      "type": "cluster"
+    },
+    {
+      "source": 21,
+      "target": 22,
+      "similarity": 0.5996,
+      "type": "cluster"
+    },
+    {
+      "source": 21,
+      "target": 77,
+      "similarity": 0.5601,
+      "type": "cluster"
+    },
+    {
+      "source": 21,
+      "target": 78,
+      "similarity": 0.4498,
+      "type": "cluster"
+    },
+    {
+      "source": 21,
+      "target": 93,
+      "similarity": 0.4461,
+      "type": "bridge"
+    },
+    {
+      "source": 21,
+      "target": 123,
+      "similarity": 0.3665,
+      "type": "cluster"
+    },
+    {
+      "source": 21,
+      "target": 65,
+      "similarity": 0.3553,
+      "type": "bridge"
+    },
+    {
+      "source": 22,
+      "target": 77,
+      "similarity": 0.5651,
+      "type": "cluster"
+    },
+    {
+      "source": 22,
+      "target": 78,
+      "similarity": 0.489,
+      "type": "cluster"
+    },
+    {
+      "source": 22,
+      "target": 60,
+      "similarity": 0.3442,
+      "type": "cluster"
+    },
+    {
+      "source": 22,
+      "target": 101,
+      "similarity": 0.3017,
+      "type": "bridge"
+    },
+    {
+      "source": 23,
+      "target": 25,
+      "similarity": 0.4082,
+      "type": "cluster"
+    },
+    {
+      "source": 23,
+      "target": 57,
+      "similarity": 0.3857,
+      "type": "bridge"
+    },
+    {
+      "source": 23,
+      "target": 128,
+      "similarity": 0.3464,
+      "type": "bridge"
+    },
+    {
+      "source": 23,
+      "target": 52,
+      "similarity": 0.3384,
+      "type": "cluster"
+    },
+    {
+      "source": 23,
+      "target": 136,
+      "similarity": 0.3374,
+      "type": "bridge"
+    },
+    {
+      "source": 23,
+      "target": 81,
+      "similarity": 0.3359,
+      "type": "bridge"
+    },
+    {
+      "source": 23,
+      "target": 87,
+      "similarity": 0.3216,
+      "type": "bridge"
+    },
+    {
+      "source": 24,
+      "target": 100,
+      "similarity": 0.417,
+      "type": "bridge"
+    },
+    {
+      "source": 24,
+      "target": 131,
+      "similarity": 0.3802,
+      "type": "cluster"
+    },
+    {
+      "source": 24,
+      "target": 99,
+      "similarity": 0.3794,
+      "type": "bridge"
+    },
+    {
+      "source": 24,
+      "target": 137,
+      "similarity": 0.3693,
+      "type": "bridge"
+    },
+    {
+      "source": 24,
+      "target": 133,
+      "similarity": 0.3509,
+      "type": "cluster"
+    },
+    {
+      "source": 24,
+      "target": 94,
+      "similarity": 0.3474,
+      "type": "cluster"
+    },
+    {
+      "source": 25,
+      "target": 139,
+      "similarity": 0.4216,
+      "type": "bridge"
+    },
+    {
+      "source": 25,
+      "target": 99,
+      "similarity": 0.3952,
+      "type": "bridge"
+    },
+    {
+      "source": 25,
+      "target": 56,
+      "similarity": 0.3782,
+      "type": "cluster"
+    },
+    {
+      "source": 25,
+      "target": 98,
+      "similarity": 0.3776,
+      "type": "cluster"
+    },
+    {
+      "source": 25,
+      "target": 86,
+      "similarity": 0.3759,
+      "type": "bridge"
+    },
+    {
+      "source": 25,
+      "target": 32,
+      "similarity": 0.3593,
+      "type": "cluster"
+    },
+    {
+      "source": 25,
+      "target": 52,
+      "similarity": 0.3418,
+      "type": "cluster"
+    },
+    {
+      "source": 26,
+      "target": 120,
+      "similarity": 0.4193,
+      "type": "bridge"
+    },
+    {
+      "source": 26,
+      "target": 36,
+      "similarity": 0.4162,
+      "type": "cluster"
+    },
+    {
+      "source": 26,
+      "target": 114,
+      "similarity": 0.3999,
+      "type": "bridge"
+    },
+    {
+      "source": 26,
+      "target": 35,
+      "similarity": 0.3704,
+      "type": "bridge"
+    },
+    {
+      "source": 26,
+      "target": 54,
+      "similarity": 0.3106,
+      "type": "cluster"
+    },
+    {
+      "source": 27,
+      "target": 114,
+      "similarity": 0.4786,
+      "type": "cluster"
+    },
+    {
+      "source": 27,
+      "target": 46,
+      "similarity": 0.4592,
+      "type": "cluster"
+    },
+    {
+      "source": 27,
+      "target": 50,
+      "similarity": 0.4334,
+      "type": "cluster"
+    },
+    {
+      "source": 27,
+      "target": 85,
+      "similarity": 0.4119,
+      "type": "cluster"
+    },
+    {
+      "source": 27,
+      "target": 28,
+      "similarity": 0.3503,
+      "type": "bridge"
+    },
+    {
+      "source": 27,
+      "target": 129,
+      "similarity": 0.3502,
+      "type": "cluster"
+    },
+    {
+      "source": 28,
+      "target": 72,
+      "similarity": 0.4355,
+      "type": "cluster"
+    },
+    {
+      "source": 29,
+      "target": 133,
+      "similarity": 0.5155,
+      "type": "cluster"
+    },
+    {
+      "source": 29,
+      "target": 30,
+      "similarity": 0.4225,
+      "type": "cluster"
+    },
+    {
+      "source": 29,
+      "target": 131,
+      "similarity": 0.3375,
+      "type": "cluster"
+    },
+    {
+      "source": 29,
+      "target": 94,
+      "similarity": 0.3238,
+      "type": "cluster"
+    },
+    {
+      "source": 30,
+      "target": 133,
+      "similarity": 0.4092,
+      "type": "cluster"
+    },
+    {
+      "source": 30,
+      "target": 132,
+      "similarity": 0.3037,
+      "type": "bridge"
+    },
+    {
+      "source": 31,
+      "target": 97,
+      "similarity": 0.4861,
+      "type": "cluster"
+    },
+    {
+      "source": 31,
+      "target": 118,
+      "similarity": 0.3995,
+      "type": "cluster"
+    },
+    {
+      "source": 31,
+      "target": 49,
+      "similarity": 0.388,
+      "type": "bridge"
+    },
+    {
+      "source": 31,
+      "target": 136,
+      "similarity": 0.3808,
+      "type": "bridge"
+    },
+    {
+      "source": 31,
+      "target": 122,
+      "similarity": 0.3574,
+      "type": "bridge"
+    },
+    {
+      "source": 31,
+      "target": 87,
+      "similarity": 0.356,
+      "type": "cluster"
+    },
+    {
+      "source": 31,
+      "target": 57,
+      "similarity": 0.355,
+      "type": "bridge"
+    },
+    {
+      "source": 32,
+      "target": 58,
+      "similarity": 0.4316,
+      "type": "cluster"
+    },
+    {
+      "source": 32,
+      "target": 56,
+      "similarity": 0.3278,
+      "type": "cluster"
+    },
+    {
+      "source": 33,
+      "target": 88,
+      "similarity": 0.4643,
+      "type": "cluster"
+    },
+    {
+      "source": 33,
+      "target": 99,
+      "similarity": 0.4375,
+      "type": "cluster"
+    },
+    {
+      "source": 33,
+      "target": 89,
+      "similarity": 0.4301,
+      "type": "bridge"
+    },
+    {
+      "source": 33,
+      "target": 137,
+      "similarity": 0.4099,
+      "type": "cluster"
+    },
+    {
+      "source": 33,
+      "target": 131,
+      "similarity": 0.4032,
+      "type": "bridge"
+    },
+    {
+      "source": 33,
+      "target": 120,
+      "similarity": 0.3999,
+      "type": "bridge"
+    },
+    {
+      "source": 34,
+      "target": 68,
+      "similarity": 0.4099,
+      "type": "cluster"
+    },
+    {
+      "source": 35,
+      "target": 41,
+      "similarity": 0.4926,
+      "type": "cluster"
+    },
+    {
+      "source": 35,
+      "target": 104,
+      "similarity": 0.4249,
+      "type": "cluster"
+    },
+    {
+      "source": 35,
+      "target": 126,
+      "similarity": 0.3353,
+      "type": "cluster"
+    },
+    {
+      "source": 35,
+      "target": 49,
+      "similarity": 0.3272,
+      "type": "bridge"
+    },
+    {
+      "source": 35,
+      "target": 37,
+      "similarity": 0.319,
+      "type": "bridge"
+    },
+    {
+      "source": 36,
+      "target": 115,
+      "similarity": 0.4,
+      "type": "cluster"
+    },
+    {
+      "source": 37,
+      "target": 121,
+      "similarity": 0.482,
+      "type": "cluster"
+    },
+    {
+      "source": 37,
+      "target": 44,
+      "similarity": 0.4258,
+      "type": "cluster"
+    },
+    {
+      "source": 37,
+      "target": 128,
+      "similarity": 0.4103,
+      "type": "cluster"
+    },
+    {
+      "source": 37,
+      "target": 93,
+      "similarity": 0.3718,
+      "type": "bridge"
+    },
+    {
+      "source": 38,
+      "target": 41,
+      "similarity": 0.3785,
+      "type": "cluster"
+    },
+    {
+      "source": 39,
+      "target": 63,
+      "similarity": 0.3947,
+      "type": "cluster"
+    },
+    {
+      "source": 39,
+      "target": 103,
+      "similarity": 0.3593,
+      "type": "bridge"
+    },
+    {
+      "source": 39,
+      "target": 92,
+      "similarity": 0.3437,
+      "type": "cluster"
+    },
+    {
+      "source": 40,
+      "target": 89,
+      "similarity": 0.5436,
+      "type": "cluster"
+    },
+    {
+      "source": 40,
+      "target": 84,
+      "similarity": 0.4144,
+      "type": "cluster"
+    },
+    {
+      "source": 40,
+      "target": 61,
+      "similarity": 0.3564,
+      "type": "cluster"
+    },
+    {
+      "source": 40,
+      "target": 116,
+      "similarity": 0.3268,
+      "type": "cluster"
+    },
+    {
+      "source": 40,
+      "target": 63,
+      "similarity": 0.3077,
+      "type": "cluster"
+    },
+    {
+      "source": 41,
+      "target": 64,
+      "similarity": 0.3602,
+      "type": "cluster"
+    },
+    {
+      "source": 41,
+      "target": 86,
+      "similarity": 0.3263,
+      "type": "bridge"
+    },
+    {
+      "source": 41,
+      "target": 126,
+      "similarity": 0.3217,
+      "type": "cluster"
+    },
+    {
+      "source": 42,
+      "target": 125,
+      "similarity": 0.4771,
+      "type": "cluster"
+    },
+    {
+      "source": 42,
+      "target": 90,
+      "similarity": 0.4456,
+      "type": "cluster"
+    },
+    {
+      "source": 42,
+      "target": 43,
+      "similarity": 0.4101,
+      "type": "cluster"
+    },
+    {
+      "source": 43,
+      "target": 90,
+      "similarity": 0.3966,
+      "type": "cluster"
+    },
+    {
+      "source": 43,
+      "target": 125,
+      "similarity": 0.3184,
+      "type": "cluster"
+    },
+    {
+      "source": 43,
+      "target": 70,
+      "similarity": 0.3114,
+      "type": "cluster"
+    },
+    {
+      "source": 44,
+      "target": 45,
+      "similarity": 0.4722,
+      "type": "cluster"
+    },
+    {
+      "source": 44,
+      "target": 93,
+      "similarity": 0.4191,
+      "type": "bridge"
+    },
+    {
+      "source": 44,
+      "target": 125,
+      "similarity": 0.4114,
+      "type": "bridge"
+    },
+    {
+      "source": 44,
+      "target": 119,
+      "similarity": 0.3895,
+      "type": "bridge"
+    },
+    {
+      "source": 44,
+      "target": 121,
+      "similarity": 0.3863,
+      "type": "cluster"
+    },
+    {
+      "source": 44,
+      "target": 85,
+      "similarity": 0.383,
+      "type": "bridge"
+    },
+    {
+      "source": 44,
+      "target": 96,
+      "similarity": 0.3828,
+      "type": "cluster"
+    },
+    {
+      "source": 45,
+      "target": 135,
+      "similarity": 0.3454,
+      "type": "bridge"
+    },
+    {
+      "source": 46,
+      "target": 129,
+      "similarity": 0.5722,
+      "type": "cluster"
+    },
+    {
+      "source": 46,
+      "target": 111,
+      "similarity": 0.455,
+      "type": "cluster"
+    },
+    {
+      "source": 46,
+      "target": 114,
+      "similarity": 0.4535,
+      "type": "cluster"
+    },
+    {
+      "source": 46,
+      "target": 50,
+      "similarity": 0.3902,
+      "type": "cluster"
+    },
+    {
+      "source": 46,
+      "target": 85,
+      "similarity": 0.3864,
+      "type": "cluster"
+    },
+    {
+      "source": 47,
+      "target": 92,
+      "similarity": 0.3781,
+      "type": "cluster"
+    },
+    {
+      "source": 47,
+      "target": 66,
+      "similarity": 0.3398,
+      "type": "bridge"
+    },
+    {
+      "source": 47,
+      "target": 87,
+      "similarity": 0.3259,
+      "type": "bridge"
+    },
+    {
+      "source": 47,
+      "target": 63,
+      "similarity": 0.3136,
+      "type": "cluster"
+    },
+    {
+      "source": 48,
+      "target": 59,
+      "similarity": 0.4501,
+      "type": "cluster"
+    },
+    {
+      "source": 48,
+      "target": 79,
+      "similarity": 0.3335,
+      "type": "cluster"
+    },
+    {
+      "source": 48,
+      "target": 60,
+      "similarity": 0.3139,
+      "type": "cluster"
+    },
+    {
+      "source": 48,
+      "target": 78,
+      "similarity": 0.3137,
+      "type": "cluster"
+    },
+    {
+      "source": 48,
+      "target": 77,
+      "similarity": 0.3118,
+      "type": "cluster"
+    },
+    {
+      "source": 48,
+      "target": 66,
+      "similarity": 0.3036,
+      "type": "cluster"
+    },
+    {
+      "source": 49,
+      "target": 73,
+      "similarity": 0.3911,
+      "type": "bridge"
+    },
+    {
+      "source": 49,
+      "target": 69,
+      "similarity": 0.3626,
+      "type": "bridge"
+    },
+    {
+      "source": 49,
+      "target": 93,
+      "similarity": 0.3545,
+      "type": "cluster"
+    },
+    {
+      "source": 50,
+      "target": 114,
+      "similarity": 0.4305,
+      "type": "cluster"
+    },
+    {
+      "source": 50,
+      "target": 111,
+      "similarity": 0.3975,
+      "type": "cluster"
+    },
+    {
+      "source": 50,
+      "target": 85,
+      "similarity": 0.3854,
+      "type": "cluster"
+    },
+    {
+      "source": 50,
+      "target": 106,
+      "similarity": 0.3181,
+      "type": "bridge"
+    },
+    {
+      "source": 51,
+      "target": 73,
+      "similarity": 0.4599,
+      "type": "cluster"
+    },
+    {
+      "source": 51,
+      "target": 52,
+      "similarity": 0.3602,
+      "type": "bridge"
+    },
+    {
+      "source": 52,
+      "target": 69,
+      "similarity": 0.3069,
+      "type": "bridge"
+    },
+    {
+      "source": 54,
+      "target": 71,
+      "similarity": 0.395,
+      "type": "cluster"
+    },
+    {
+      "source": 54,
+      "target": 84,
+      "similarity": 0.3475,
+      "type": "bridge"
+    },
+    {
+      "source": 54,
+      "target": 83,
+      "similarity": 0.3083,
+      "type": "cluster"
+    },
+    {
+      "source": 55,
+      "target": 132,
+      "similarity": 0.3435,
+      "type": "cluster"
+    },
+    {
+      "source": 55,
+      "target": 118,
+      "similarity": 0.3222,
+      "type": "bridge"
+    },
+    {
+      "source": 56,
+      "target": 98,
+      "similarity": 0.3157,
+      "type": "cluster"
+    },
+    {
+      "source": 57,
+      "target": 103,
+      "similarity": 0.4762,
+      "type": "cluster"
+    },
+    {
+      "source": 57,
+      "target": 100,
+      "similarity": 0.4715,
+      "type": "cluster"
+    },
+    {
+      "source": 57,
+      "target": 139,
+      "similarity": 0.4239,
+      "type": "cluster"
+    },
+    {
+      "source": 57,
+      "target": 120,
+      "similarity": 0.3831,
+      "type": "cluster"
+    },
+    {
+      "source": 59,
+      "target": 76,
+      "similarity": 0.3831,
+      "type": "cluster"
+    },
+    {
+      "source": 59,
+      "target": 108,
+      "similarity": 0.3399,
+      "type": "bridge"
+    },
+    {
+      "source": 59,
+      "target": 79,
+      "similarity": 0.3058,
+      "type": "cluster"
+    },
+    {
+      "source": 61,
+      "target": 84,
+      "similarity": 0.3823,
+      "type": "cluster"
+    },
+    {
+      "source": 61,
+      "target": 82,
+      "similarity": 0.371,
+      "type": "cluster"
+    },
+    {
+      "source": 61,
+      "target": 89,
+      "similarity": 0.3583,
+      "type": "cluster"
+    },
+    {
+      "source": 62,
+      "target": 108,
+      "similarity": 0.3406,
+      "type": "cluster"
+    },
+    {
+      "source": 63,
+      "target": 99,
+      "similarity": 0.4225,
+      "type": "bridge"
+    },
+    {
+      "source": 63,
+      "target": 89,
+      "similarity": 0.3837,
+      "type": "cluster"
+    },
+    {
+      "source": 64,
+      "target": 100,
+      "similarity": 0.394,
+      "type": "bridge"
+    },
+    {
+      "source": 64,
+      "target": 139,
+      "similarity": 0.3766,
+      "type": "bridge"
+    },
+    {
+      "source": 64,
+      "target": 65,
+      "similarity": 0.3666,
+      "type": "bridge"
+    },
+    {
+      "source": 64,
+      "target": 126,
+      "similarity": 0.3496,
+      "type": "cluster"
+    },
+    {
+      "source": 65,
+      "target": 93,
+      "similarity": 0.3819,
+      "type": "cluster"
+    },
+    {
+      "source": 65,
+      "target": 91,
+      "similarity": 0.3675,
+      "type": "cluster"
+    },
+    {
+      "source": 66,
+      "target": 138,
+      "similarity": 0.3508,
+      "type": "bridge"
+    },
+    {
+      "source": 66,
+      "target": 67,
+      "similarity": 0.3458,
+      "type": "cluster"
+    },
+    {
+      "source": 66,
+      "target": 105,
+      "similarity": 0.3128,
+      "type": "bridge"
+    },
+    {
+      "source": 68,
+      "target": 91,
+      "similarity": 0.3143,
+      "type": "cluster"
+    },
+    {
+      "source": 69,
+      "target": 117,
+      "similarity": 0.343,
+      "type": "cluster"
+    },
+    {
+      "source": 69,
+      "target": 134,
+      "similarity": 0.3069,
+      "type": "cluster"
+    },
+    {
+      "source": 70,
+      "target": 122,
+      "similarity": 0.4547,
+      "type": "cluster"
+    },
+    {
+      "source": 70,
+      "target": 125,
+      "similarity": 0.3809,
+      "type": "cluster"
+    },
+    {
+      "source": 70,
+      "target": 117,
+      "similarity": 0.3599,
+      "type": "cluster"
+    },
+    {
+      "source": 70,
+      "target": 90,
+      "similarity": 0.3272,
+      "type": "cluster"
+    },
+    {
+      "source": 70,
+      "target": 132,
+      "similarity": 0.3174,
+      "type": "bridge"
+    },
+    {
+      "source": 70,
+      "target": 136,
+      "similarity": 0.3122,
+      "type": "cluster"
+    },
+    {
+      "source": 71,
+      "target": 72,
+      "similarity": 0.3791,
+      "type": "bridge"
+    },
+    {
+      "source": 71,
+      "target": 83,
+      "similarity": 0.3548,
+      "type": "cluster"
+    },
+    {
+      "source": 71,
+      "target": 122,
+      "similarity": 0.3165,
+      "type": "bridge"
+    },
+    {
+      "source": 73,
+      "target": 78,
+      "similarity": 0.3299,
+      "type": "cluster"
+    },
+    {
+      "source": 73,
+      "target": 121,
+      "similarity": 0.314,
+      "type": "bridge"
+    },
+    {
+      "source": 73,
+      "target": 112,
+      "similarity": 0.3034,
+      "type": "cluster"
+    },
+    {
+      "source": 74,
+      "target": 75,
+      "similarity": 0.4222,
+      "type": "cluster"
+    },
+    {
+      "source": 74,
+      "target": 106,
+      "similarity": 0.3355,
+      "type": "cluster"
+    },
+    {
+      "source": 77,
+      "target": 78,
+      "similarity": 0.4705,
+      "type": "cluster"
+    },
+    {
+      "source": 77,
+      "target": 123,
+      "similarity": 0.3405,
+      "type": "cluster"
+    },
+    {
+      "source": 78,
+      "target": 126,
+      "similarity": 0.3318,
+      "type": "bridge"
+    },
+    {
+      "source": 78,
+      "target": 112,
+      "similarity": 0.308,
+      "type": "cluster"
+    },
+    {
+      "source": 79,
+      "target": 93,
+      "similarity": 0.3935,
+      "type": "bridge"
+    },
+    {
+      "source": 81,
+      "target": 105,
+      "similarity": 0.4146,
+      "type": "cluster"
+    },
+    {
+      "source": 81,
+      "target": 136,
+      "similarity": 0.3899,
+      "type": "bridge"
+    },
+    {
+      "source": 81,
+      "target": 131,
+      "similarity": 0.3431,
+      "type": "cluster"
+    },
+    {
+      "source": 81,
+      "target": 95,
+      "similarity": 0.3057,
+      "type": "cluster"
+    },
+    {
+      "source": 83,
+      "target": 101,
+      "similarity": 0.3033,
+      "type": "cluster"
+    },
+    {
+      "source": 84,
+      "target": 89,
+      "similarity": 0.4701,
+      "type": "cluster"
+    },
+    {
+      "source": 84,
+      "target": 92,
+      "similarity": 0.3807,
+      "type": "cluster"
+    },
+    {
+      "source": 85,
+      "target": 88,
+      "similarity": 0.3807,
+      "type": "bridge"
+    },
+    {
+      "source": 85,
+      "target": 111,
+      "similarity": 0.3724,
+      "type": "cluster"
+    },
+    {
+      "source": 86,
+      "target": 103,
+      "similarity": 0.3587,
+      "type": "cluster"
+    },
+    {
+      "source": 86,
+      "target": 139,
+      "similarity": 0.3519,
+      "type": "cluster"
+    },
+    {
+      "source": 88,
+      "target": 137,
+      "similarity": 0.4363,
+      "type": "cluster"
+    },
+    {
+      "source": 88,
+      "target": 99,
+      "similarity": 0.4188,
+      "type": "cluster"
+    },
+    {
+      "source": 88,
+      "target": 119,
+      "similarity": 0.3858,
+      "type": "cluster"
+    },
+    {
+      "source": 88,
+      "target": 135,
+      "similarity": 0.3794,
+      "type": "cluster"
+    },
+    {
+      "source": 88,
+      "target": 89,
+      "similarity": 0.358,
+      "type": "bridge"
+    },
+    {
+      "source": 89,
+      "target": 102,
+      "similarity": 0.3788,
+      "type": "bridge"
+    },
+    {
+      "source": 90,
+      "target": 117,
+      "similarity": 0.3271,
+      "type": "cluster"
+    },
+    {
+      "source": 90,
+      "target": 138,
+      "similarity": 0.3129,
+      "type": "bridge"
+    },
+    {
+      "source": 91,
+      "target": 126,
+      "similarity": 0.4187,
+      "type": "bridge"
+    },
+    {
+      "source": 92,
+      "target": 103,
+      "similarity": 0.3731,
+      "type": "bridge"
+    },
+    {
+      "source": 92,
+      "target": 139,
+      "similarity": 0.3592,
+      "type": "bridge"
+    },
+    {
+      "source": 93,
+      "target": 97,
+      "similarity": 0.3644,
+      "type": "bridge"
+    },
+    {
+      "source": 94,
+      "target": 133,
+      "similarity": 0.3722,
+      "type": "cluster"
+    },
+    {
+      "source": 97,
+      "target": 124,
+      "similarity": 0.4264,
+      "type": "cluster"
+    },
+    {
+      "source": 97,
+      "target": 98,
+      "similarity": 0.366,
+      "type": "bridge"
+    },
+    {
+      "source": 97,
+      "target": 129,
+      "similarity": 0.3628,
+      "type": "bridge"
+    },
+    {
+      "source": 97,
+      "target": 137,
+      "similarity": 0.3541,
+      "type": "bridge"
+    },
+    {
+      "source": 98,
+      "target": 109,
+      "similarity": 0.424,
+      "type": "cluster"
+    },
+    {
+      "source": 98,
+      "target": 130,
+      "similarity": 0.3495,
+      "type": "bridge"
+    },
+    {
+      "source": 98,
+      "target": 135,
+      "similarity": 0.3379,
+      "type": "bridge"
+    },
+    {
+      "source": 99,
+      "target": 103,
+      "similarity": 0.4361,
+      "type": "bridge"
+    },
+    {
+      "source": 99,
+      "target": 137,
+      "similarity": 0.412,
+      "type": "cluster"
+    },
+    {
+      "source": 100,
+      "target": 131,
+      "similarity": 0.4618,
+      "type": "bridge"
+    },
+    {
+      "source": 100,
+      "target": 120,
+      "similarity": 0.4392,
+      "type": "cluster"
+    },
+    {
+      "source": 100,
+      "target": 103,
+      "similarity": 0.3803,
+      "type": "cluster"
+    },
+    {
+      "source": 101,
+      "target": 102,
+      "similarity": 0.3294,
+      "type": "cluster"
+    },
+    {
+      "source": 101,
+      "target": 138,
+      "similarity": 0.3037,
+      "type": "cluster"
+    },
+    {
+      "source": 105,
+      "target": 131,
+      "similarity": 0.5202,
+      "type": "cluster"
+    },
+    {
+      "source": 107,
+      "target": 130,
+      "similarity": 0.3812,
+      "type": "cluster"
+    },
+    {
+      "source": 107,
+      "target": 129,
+      "similarity": 0.3666,
+      "type": "cluster"
+    },
+    {
+      "source": 108,
+      "target": 113,
+      "similarity": 0.369,
+      "type": "cluster"
+    },
+    {
+      "source": 108,
+      "target": 116,
+      "similarity": 0.3275,
+      "type": "cluster"
+    },
+    {
+      "source": 109,
+      "target": 117,
+      "similarity": 0.3686,
+      "type": "bridge"
+    },
+    {
+      "source": 110,
+      "target": 111,
+      "similarity": 0.4656,
+      "type": "cluster"
+    },
+    {
+      "source": 111,
+      "target": 114,
+      "similarity": 0.3888,
+      "type": "cluster"
+    },
+    {
+      "source": 111,
+      "target": 130,
+      "similarity": 0.3336,
+      "type": "cluster"
+    },
+    {
+      "source": 112,
+      "target": 123,
+      "similarity": 0.3203,
+      "type": "cluster"
+    },
+    {
+      "source": 114,
+      "target": 120,
+      "similarity": 0.4532,
+      "type": "bridge"
+    },
+    {
+      "source": 117,
+      "target": 122,
+      "similarity": 0.4171,
+      "type": "cluster"
+    },
+    {
+      "source": 119,
+      "target": 132,
+      "similarity": 0.3988,
+      "type": "cluster"
+    },
+    {
+      "source": 121,
+      "target": 128,
+      "similarity": 0.4524,
+      "type": "cluster"
+    },
+    {
+      "source": 122,
+      "target": 132,
+      "similarity": 0.3668,
+      "type": "bridge"
+    },
+    {
+      "source": 122,
+      "target": 136,
+      "similarity": 0.3568,
+      "type": "cluster"
+    },
+    {
+      "source": 125,
+      "target": 128,
+      "similarity": 0.3117,
+      "type": "bridge"
+    },
+    {
+      "source": 127,
+      "target": 139,
+      "similarity": 0.3584,
+      "type": "cluster"
+    },
+    {
+      "source": 129,
+      "target": 130,
+      "similarity": 0.4785,
+      "type": "cluster"
+    },
+    {
+      "source": 131,
+      "target": 133,
+      "similarity": 0.3921,
+      "type": "cluster"
+    },
+    {
+      "source": 137,
+      "target": 139,
+      "similarity": 0.3684,
+      "type": "bridge"
+    }
+  ]
+}
