@@ -461,7 +461,7 @@ function renderGraph(data) {
     .data([...communities.entries()].filter(([id]) => id !== -1 && id !== null))
     .join('text')
     .text(([, nodes]) => nodes[0].community_label || '')
-    .attr('font-size', '11px')
+    .attr('font-size', '13px')
     .attr('font-weight', '700')
     .attr('fill', ([id]) => { const h = (id * 137.508) % 360; return `hsl(${h}, 75%, 72%)`; })
     .attr('text-anchor', 'middle')
@@ -498,7 +498,7 @@ function renderGraph(data) {
   svg.call(zoom);
 
   // Start zoomed out so the full graph is visible on load
-  const initialScale = 0.6;
+  const initialScale = 0.45;
   svg.call(
     zoom.transform,
     d3.zoomIdentity
