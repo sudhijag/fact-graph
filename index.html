@@ -406,15 +406,22 @@ function renderGraph(data) {
 
   // ── Zoom ─────────────────────────────────────────────────────────────────
   let currentK = 1;
+  const zoom = d3.zoom()
+    .scaleExtent([0.1, 6])
+    .on('zoom', e => {
+      root.attr('transform', e.transform);
+      currentK = e.transform.k;
+      label.attr('opacity', currentK > 1.8 ? Math.min((currentK - 1.8) / 0.6, 1) : 0);
+    });
+  svg.call(zoom);
+
+  // Start zoomed out so the full graph is visible on load
+  const initialScale = 0.6;
   svg.call(
-    d3.zoom()
-      .scaleExtent([0.1, 6])
-      .on('zoom', e => {
-        root.attr('transform', e.transform);
-        currentK = e.transform.k;
-        // Fade node labels in above zoom 1.8
-        label.attr('opacity', currentK > 1.8 ? Math.min((currentK - 1.8) / 0.6, 1) : 0);
-      })
+    zoom.transform,
+    d3.zoomIdentity
+      .translate(W * (1 - initialScale) / 2, H * (1 - initialScale) / 2)
+      .scale(initialScale)
   );
 
   // ── Tick ─────────────────────────────────────────────────────────────────
@@ -446,79 +453,45 @@ function renderGraph(data) {
       });
   });
 
-  // ── Ambient drift after simulation settles ───────────────────────────────
-  simulation.on('end', () => {
-    // Fade in community labels
+  // ── Community labels fade in after a moment ──────────────────────────────
+  setTimeout(() => {
     communityLabels.transition().duration(800).attr('opacity', 0.9);
+  }, 2000);
 
-    // Capture settled base positions
-    const basePos = new Map(data.nodes.map(n => [n.id, { x: n.x, y: n.y }]));
-    const phase   = new Map(data.nodes.map(n => [n.id, Math.random() * Math.PI * 2]));
-    const freq = 0.00035;
-    const amp  = 2.2;
+  // ── Continuous ambient drift ──────────────────────────────────────────────
+  // Reads live simulation positions each frame — works from first render,
+  // no waiting for settlement. Amplitude is ~2px (barely perceptible motion).
+  const phase = new Map(data.nodes.map(n => [n.id, Math.random() * Math.PI * 2]));
+  const freq  = 0.00035;
+  const amp   = 2;
 
-    function drift(t) {
-      node
-        .attr('cx', d => {
-          const b = basePos.get(d.id);
-          return b.x + amp * Math.sin(t * freq + phase.get(d.id));
-        })
-        .attr('cy', d => {
-          const b = basePos.get(d.id);
-          return b.y + amp * Math.cos(t * freq * 0.73 + phase.get(d.id));
-        });
+  function drift(t) {
+    const ox = id => amp * Math.sin(t * freq + phase.get(id));
+    const oy = id => amp * Math.cos(t * freq * 0.73 + phase.get(id));
 
-      label
-        .attr('x', d => {
-          const b = basePos.get(d.id);
-          return b.x + amp * Math.sin(t * freq + phase.get(d.id));
-        })
-        .attr('y', d => {
-          const b = basePos.get(d.id);
-          return b.y + amp * Math.cos(t * freq * 0.73 + phase.get(d.id));
-        });
+    node
+      .attr('cx', d => d.x + ox(d.id))
+      .attr('cy', d => d.y + oy(d.id));
 
-      // Update edges to follow drifting nodes
-      clusterLine
-        .attr('x1', d => {
-          const b = basePos.get(d.source.id);
-          return b.x + amp * Math.sin(t * freq + phase.get(d.source.id));
-        })
-        .attr('y1', d => {
-          const b = basePos.get(d.source.id);
-          return b.y + amp * Math.cos(t * freq * 0.73 + phase.get(d.source.id));
-        })
-        .attr('x2', d => {
-          const b = basePos.get(d.target.id);
-          return b.x + amp * Math.sin(t * freq + phase.get(d.target.id));
-        })
-        .attr('y2', d => {
-          const b = basePos.get(d.target.id);
-          return b.y + amp * Math.cos(t * freq * 0.73 + phase.get(d.target.id));
-        });
+    label
+      .attr('x', d => d.x + ox(d.id))
+      .attr('y', d => d.y + oy(d.id));
 
-      bridgeLine
-        .attr('x1', d => {
-          const b = basePos.get(d.source.id);
-          return b.x + amp * Math.sin(t * freq + phase.get(d.source.id));
-        })
-        .attr('y1', d => {
-          const b = basePos.get(d.source.id);
-          return b.y + amp * Math.cos(t * freq * 0.73 + phase.get(d.source.id));
-        })
-        .attr('x2', d => {
-          const b = basePos.get(d.target.id);
-          return b.x + amp * Math.sin(t * freq + phase.get(d.target.id));
-        })
-        .attr('y2', d => {
-          const b = basePos.get(d.target.id);
-          return b.y + amp * Math.cos(t * freq * 0.73 + phase.get(d.target.id));
-        });
+    clusterLine
+      .attr('x1', d => d.source.x + ox(d.source.id))
+      .attr('y1', d => d.source.y + oy(d.source.id))
+      .attr('x2', d => d.target.x + ox(d.target.id))
+      .attr('y2', d => d.target.y + oy(d.target.id));
 
-      requestAnimationFrame(drift);
-    }
+    bridgeLine
+      .attr('x1', d => d.source.x + ox(d.source.id))
+      .attr('y1', d => d.source.y + oy(d.source.id))
+      .attr('x2', d => d.target.x + ox(d.target.id))
+      .attr('y2', d => d.target.y + oy(d.target.id));
+
     requestAnimationFrame(drift);
-  });
+  }
+  requestAnimationFrame(drift);
 }
 
 init();
